@@ -27,8 +27,10 @@ const details=$('h4').toArray().map(el=>({name:$(el).text(),icon:$(el).find('svg
 const imageAssets=Object.fromEntries([...byOriginal].filter(([k])=>/integration|bento|hero/.test(k)).map(([k,v])=>[path.basename(k),v]));
 fs.writeFileSync(root+'/content/integrations.json',JSON.stringify({details,imageAssets},null,2));
 for(const a of assets.filter(a=>a.kind==='stylesheet')){let css=fs.readFileSync(a.path,'utf8');css=css.replace(/url\(([^)]+)\)/g,(match,url)=>{const raw=url.replace(/["']/g,'');if(raw.startsWith('data:'))return match;const full=new URL(raw,a.url);const dest=byOriginal.get(full.pathname);return dest?`url(${dest})`:match;});fs.writeFileSync(root+'/app/source-'+a.id+'.css',css);}
-fs.copyFileSync('/Users/betopiagroup/Downloads/PUKU CLI.png',root+'/public/puku-logo.png');
-fs.copyFileSync('/Users/betopiagroup/Downloads/PUKU CLI.png',root+'/app/icon.png');
+if(fs.existsSync(path.join(root, 'public/puku-logo.png'))){
+  fs.copyFileSync(path.join(root, 'public/puku-logo.png'), path.join(root, 'app/icon.png'));
+}
+
 fs.copyFileSync('/tmp/source-desktop.png',root+'/evidence/source-desktop.png');fs.copyFileSync('/tmp/source-mobile.png',root+'/evidence/source-mobile.png');
 fs.writeFileSync(root+'/content/root.json',fs.readFileSync('/tmp/devin-root.json'));
 fs.writeFileSync(root+'/asset-manifest.json',JSON.stringify(assets.map(a=>({source:a.url,kind:a.kind,local:byUrl.get(a.url)})),null,2));
