@@ -1,0 +1,332 @@
+[
+  {
+    "source": "https://devin.ai/_next/static/immutable/media/GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2",
+    "kind": "font",
+    "local": "/assets/0884f46c5660966b.woff2"
+  },
+  {
+    "source": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2",
+    "kind": "font",
+    "local": "/assets/dcc96c913fae88e3.woff2"
+  },
+  {
+    "source": "https://devin.ai/_next/static/immutable/media/Inter_latin.p.45535valc9rzk.woff2",
+    "kind": "font",
+    "local": "/assets/5a78838a700761fc.woff2"
+  },
+  {
+    "source": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2",
+    "kind": "font",
+    "local": "/assets/46afca314d0fd278.woff2"
+  },
+  {
+    "source": "https://devin.ai/_next/static/immutable/media/STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2",
+    "kind": "font",
+    "local": "/assets/addf6bd7e2725110.woff2"
+  },
+  {
+    "source": "https://devin.ai/_next/static/immutable/media/IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2",
+    "kind": "font",
+    "local": "/assets/9482f78c14552ae9.woff2"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-hero%2Fhero_new_mobile.webp&w=640&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/b645dc8a7a707e79.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/static/immutable/chunks/2zmpz3lwt2b2n.css",
+    "kind": "stylesheet",
+    "local": "/assets/49861c5f4befc101.css"
+  },
+  {
+    "source": "https://devin.ai/_next/static/immutable/chunks/1lfksx_meu96q.css",
+    "kind": "stylesheet",
+    "local": "/assets/b2494a9414e207e9.css"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-hero%2Fhero_new_tablet.webp&w=1200&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/71085a16b391e766.jpg"
+  },
+  {
+    "source": "https://devin.ai/favicon.svg",
+    "kind": "image",
+    "local": "/assets/cf87825b0a4af4f8.svg"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-hero%2Fhero_new.webp&w=1920&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/a48287c284cf0d59.webp"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-01.svg",
+    "kind": "image",
+    "local": "/assets/a34ad289dc36372f.svg"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-02.svg",
+    "kind": "image",
+    "local": "/assets/f6586e049baa421c.svg"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-04.svg",
+    "kind": "image",
+    "local": "/assets/d840de58ab277e59.svg"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-03.svg",
+    "kind": "image",
+    "local": "/assets/2c76ac3a85fef999.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/download/icon-mac.svg",
+    "kind": "image",
+    "local": "/assets/609f21f94f1cf893.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/download/icon-windows.svg",
+    "kind": "image",
+    "local": "/assets/ec1e35db913f87cf.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/download/icon-linux.svg",
+    "kind": "image",
+    "local": "/assets/b10f8767792af35c.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/desktop/hero/icons/IconCloudSimple.svg",
+    "kind": "image",
+    "local": "/assets/9cb18bd35893171c.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/desktop/hero/icons/IconPullRequest.svg",
+    "kind": "image",
+    "local": "/assets/35af729d723a435d.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/desktop/hero/icons/chat-gpt.svg",
+    "kind": "image",
+    "local": "/assets/2a7e04450ff7a2c1.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/desktop/hero/icons/IconCheckmark1.svg",
+    "kind": "image",
+    "local": "/assets/10a816b41a0844de.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/desktop/hero/icons/IconChevronDownMedium.svg",
+    "kind": "image",
+    "local": "/assets/48544032cf4ec47e.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/desktop/hero/icons/IconRequestClosed.svg",
+    "kind": "image",
+    "local": "/assets/f3c703ca2df0eef6.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/desktop/hero/icons/IconPlanning.svg",
+    "kind": "image",
+    "local": "/assets/e6727dc4f59cf05a.svg"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-00-devin.svg",
+    "kind": "image",
+    "local": "/assets/302e1f983beee3c3.svg"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-08.svg",
+    "kind": "image",
+    "local": "/assets/1da49a68ec7549f8.svg"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-05.svg",
+    "kind": "image",
+    "local": "/assets/59c9083dca0d76fb.svg"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-07.svg",
+    "kind": "image",
+    "local": "/assets/84efd8545b7767e6.svg"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-10.svg",
+    "kind": "image",
+    "local": "/assets/15e68b7f97829d32.svg"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-06.svg",
+    "kind": "image",
+    "local": "/assets/b66ed98e523c7925.svg"
+  },
+  {
+    "source": "https://devin.ai/images/acp-logos/logo-11.svg",
+    "kind": "image",
+    "local": "/assets/41ec24ae69646a59.svg"
+  },
+  {
+    "source": "https://devin.ai/images/desktop/free-models-leaderboard.svg",
+    "kind": "image",
+    "local": "/assets/8015d221952225b7.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/cloud/nu-logo.svg",
+    "kind": "image",
+    "local": "/assets/57c1dc6693c6063b.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/cloud/itau-logo.svg",
+    "kind": "image",
+    "local": "/assets/70739ae5d7671f41.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/cloud/rivian-logo.svg",
+    "kind": "image",
+    "local": "/assets/56bbf07c8a9e49fb.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/desktop/hero/icons/IconMergeBranch.svg",
+    "kind": "image",
+    "local": "/assets/6d83f78dde2e5ac0.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/cloud/ramp-logo.svg",
+    "kind": "image",
+    "local": "/assets/ccb6b26773d567ff.svg"
+  },
+  {
+    "source": "https://devin.ai/images/guarantee/seal2.svg",
+    "kind": "image",
+    "local": "/assets/d3fe83e947747078.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/security/logo-devin.svg",
+    "kind": "image",
+    "local": "/assets/654762dddc323d20.svg"
+  },
+  {
+    "source": "https://devin.ai/images/security/cognition-logo.svg",
+    "kind": "image",
+    "local": "/assets/e7b57762411910d2.svg"
+  },
+  {
+    "source": "https://devin.ai/assets/images/security/seal.svg",
+    "kind": "image",
+    "local": "/assets/93e9d5662c2aef39.svg"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-hero%2Fhero_usecase_1.webp&w=640&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/b7edf895dd77e764.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-hero%2Fhero_usecase_2.webp&w=640&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/9002fbd9ff35b876.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-hero%2Fhero_usecase_3.webp&w=640&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/71b783a703fddb5d.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcard01.3dn1e6nev9evr.png&w=384&q=75",
+    "kind": "image",
+    "local": "/assets/71dfc6f0ecd0b9e5.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwork-team-collaborate.41ww-s530784u.png&w=1920&q=75",
+    "kind": "image",
+    "local": "/assets/a9c25c3396be8c58.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcard03-line.3hap7o1r4v9b-.png&w=384&q=75",
+    "kind": "image",
+    "local": "/assets/c02d6774ae0f9552.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fbento01.1zvwdjd4189o_.png&w=750&q=75",
+    "kind": "image",
+    "local": "/assets/f9bb3fa791e6eccd.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcard03-line-03.286tj02bw-xxp.png&w=384&q=75",
+    "kind": "image",
+    "local": "/assets/30c68ab3907e1252.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fbento03.2c5naoouyodq5.png&w=1920&q=75",
+    "kind": "image",
+    "local": "/assets/2d90f0af3eeab1f2.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fintegration01.png&w=1080&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/49e379d0c6538651.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fintegration03.png&w=1080&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/e01d3f42ec6b67e5.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fintegration02.png&w=1080&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/c4f00278926e283f.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-hero%2Fhero_usecase_2.webp&w=384&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/cead0a7ad64a21fa.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-hero%2Fhero_usecase_3.webp&w=384&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/a1364ea64c8e18c7.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-hero%2Fhero_usecase_1.webp&w=384&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/44e38cedfdb63797.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fintegration03.png&w=640&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/b75801c07b3b507a.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fintegration02.png&w=640&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/cb0b3e628e9fa8de.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fintegration01.png&w=640&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/1ad238743aeb8c59.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fbento-mobile01.00hccic459k--.png&w=640&q=75",
+    "kind": "image",
+    "local": "/assets/e2912976c9056f10.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fbento-mobile03.31-a32i6l7epw.png&w=640&q=75",
+    "kind": "image",
+    "local": "/assets/0901df916426aeb6.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-integration-mobile-1.png&w=640&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/65dd18532c28dfdf.webp"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-integration-mobile-2.png&w=640&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/ab64a844a5a1df05"
+  },
+  {
+    "source": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fhome-integration-mobile-3.png&w=640&q=75&dpl=dpl_Do628sjkpWgQsVbhYgS8TYc9aoVD",
+    "kind": "image",
+    "local": "/assets/60cef52b305ec424.webp"
+  }
+]

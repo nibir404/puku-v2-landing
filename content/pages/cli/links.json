@@ -1,0 +1,94 @@
+[
+  {
+    "href": "/",
+    "label": ""
+  },
+  {
+    "href": "/customers",
+    "label": "Customers"
+  },
+  {
+    "href": "/pricing",
+    "label": "Pricing"
+  },
+  {
+    "href": "/demo",
+    "label": "Get a Demo"
+  },
+  {
+    "href": "/download",
+    "label": "Download"
+  },
+  {
+    "href": "https://app.devin.ai/login",
+    "label": "Log in"
+  },
+  {
+    "href": "https://cli.devin.ai/docs",
+    "label": "Read the docs →"
+  },
+  {
+    "href": "https://cli.devin.ai/docs",
+    "label": "READ THE DOCS →"
+  },
+  {
+    "href": "https://cognition.ai/blog/fusion-in-devin-cli?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "How Fusion works →"
+  },
+  {
+    "href": "https://artificialanalysis.ai/",
+    "label": "Artificial Analysis results →"
+  },
+  {
+    "href": "https://cognition.ai/frontiercode?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "FrontierCode benchmarks →"
+  },
+  {
+    "href": "https://artificialanalysis.ai/",
+    "label": "Artificial Analysis"
+  },
+  {
+    "href": "https://artificialanalysis.ai/",
+    "label": "AA Coding Agent Index 1.5"
+  },
+  {
+    "href": "https://cli.devin.ai/docs",
+    "label": "Read Docs"
+  },
+  {
+    "href": "https://cli.devin.ai/docs",
+    "label": "Read the docs →"
+  },
+  {
+    "href": "https://cognition.ai/blog/fusion-in-devin-cli?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "Read about how Fusion works →"
+  },
+  {
+    "href": "https://cli.devin.ai/docs/extensibility",
+    "label": "Extensibility docs →"
+  },
+  {
+    "href": "https://cli.devin.ai/docs",
+    "label": "Installation guide →"
+  },
+  {
+    "href": "https://cognition.com/pages/privacy-policy?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "Privacy Policy"
+  },
+  {
+    "href": "https://cognition.com/pages/terms-of-service?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "Terms of Service"
+  },
+  {
+    "href": "/privacy-choices",
+    "label": "Your Privacy Choices"
+  },
+  {
+    "href": "https://www.linkedin.com/company/cognition-ai-labs/",
+    "label": "LinkedIn"
+  },
+  {
+    "href": "https://x.com/cognition",
+    "label": "X (Twitter)"
+  }
+]

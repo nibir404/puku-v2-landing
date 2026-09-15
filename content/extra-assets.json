@@ -1,0 +1,1542 @@
+[
+  {
+    "url": "https://exafunction.github.io/public/hero/attribution_individual.png",
+    "id": "50f478e59e333108",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/50f478e59e333108.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/attribution_team.png",
+    "id": "08bf7e66da8d68bd",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/08bf7e66da8d68bd.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/codewhisperer_replit_add.mp4",
+    "id": "f5b16b1443bdcb52",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f5b16b1443bdcb52.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/demo-guideline-2.mp4",
+    "id": "b6e4317e8b0345c0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/b6e4317e8b0345c0.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/chat/chat-at-search.mp4",
+    "id": "d44241d2bf9704c4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d44241d2bf9704c4.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/share_dropdown.png",
+    "id": "2bf501d7a2660588",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/2bf501d7a2660588.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/codewhisperer_topo_sort.mp4",
+    "id": "c2362356b408aaad",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/c2362356b408aaad.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/gpt4_option_selection.png",
+    "id": "abbbe27a49dc2a4e",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/abbbe27a49dc2a4e.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/recent_conversation_option_selection.png",
+    "id": "6b85e8672dbea827",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/6b85e8672dbea827.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/codewhisperer_gpl_regurgitation.mp4",
+    "id": "79ea58ae3eafe3d4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/79ea58ae3eafe3d4.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/chat/chat-multi-window.mp4",
+    "id": "6e0cdc2f5a963aa9",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/6e0cdc2f5a963aa9.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/chat/chat-send-to-terminal.mp4",
+    "id": "d17ef9f966cfbd30",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d17ef9f966cfbd30.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/stackoverflow-pulse-productivity-satisfaction.png",
+    "id": "791ddf5bfd1cee2d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/791ddf5bfd1cee2d.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/tabnine_linked_list.mp4",
+    "id": "affb3c15186d1234",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/affb3c15186d1234.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/codeium_linked_list_final.mp4",
+    "id": "8bd8a37e0013cee4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/8bd8a37e0013cee4.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/copilot_linked_list.mp4",
+    "id": "852beae7eb95398a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/852beae7eb95398a.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/copilot_sentiment_demo.mp4",
+    "id": "fa0847e2454b307a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/fa0847e2454b307a.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/copilot_copilot_sentiment.mp4",
+    "id": "2e07b4896fae8872",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/2e07b4896fae8872.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/replit_linked_list.mp4",
+    "id": "f1cdb00b16196da7",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f1cdb00b16196da7.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/replit_copilot_sentiment.mp4",
+    "id": "9301fae1db05f47a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/9301fae1db05f47a.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/copilot_go_demo.mp4",
+    "id": "0ae6f88b525d295d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/0ae6f88b525d295d.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/tabnine_copilot_sentiment.mp4",
+    "id": "bb04409d85671dc1",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/bb04409d85671dc1.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/codeium_copilot_sentiment.mp4",
+    "id": "1e49c20cc9422272",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/1e49c20cc9422272.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/copilot_copilot_go.mp4",
+    "id": "d27e5d511c87da15",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d27e5d511c87da15.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/tabnine_demo.mp4",
+    "id": "ffc2e67e02c273b9",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/ffc2e67e02c273b9.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/tabnine_copilot_go.mp4",
+    "id": "18b4a2d5efd879d6",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/18b4a2d5efd879d6.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/codeium_copilot_go_sql.mp4",
+    "id": "af1498a06841d189",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/af1498a06841d189.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/replit_demo.mp4",
+    "id": "32fedb287604ea20",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/32fedb287604ea20.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/codeium_tabnine_randomforest.mp4",
+    "id": "2f49ecca67e17a05",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/2f49ecca67e17a05.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/copilot_replit_js.mp4",
+    "id": "35d81487ba2305ee",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/35d81487ba2305ee.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/tabnine_replit_js.mp4",
+    "id": "e5fd6f1ddf67c137",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/e5fd6f1ddf67c137.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/tabnine_tabnine_py.mp4",
+    "id": "d545a54b7d24b7c2",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d545a54b7d24b7c2.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/replit_replit_js.mp4",
+    "id": "b4f6caa3e888d2f7",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/b4f6caa3e888d2f7.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/rating_codeium.png",
+    "id": "f14814a7f45e1180",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f14814a7f45e1180.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/rating_copilot.png",
+    "id": "05ee7a9c622cb814",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/05ee7a9c622cb814.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/rating_tabnine.png",
+    "id": "6aa86c841aae1ea4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/6aa86c841aae1ea4.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/replit_copilot_go.mp4",
+    "id": "0235d6d97539e861",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/0235d6d97539e861.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/rating_codewhisperer.png",
+    "id": "93779ca641741492",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/93779ca641741492.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/chat/better_chat_codeium_reranker_performance.png",
+    "id": "75da7b29ea642d93",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/75da7b29ea642d93.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/analytics_dashboard_example.png",
+    "id": "a0373d993c2340f6",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a0373d993c2340f6.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/chat/chat-history.png",
+    "id": "74023d9d24527c97",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/74023d9d24527c97.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/codeium_replit_add.mp4",
+    "id": "7f690f57a99e0cf9",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/7f690f57a99e0cf9.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/chat/inline-citation.png",
+    "id": "241e82d218b29948",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/241e82d218b29948.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/chat/at-mention.png",
+    "id": "a921dbe3b0d1244d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a921dbe3b0d1244d.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/chat/explain.png",
+    "id": "96d31bfac97129d4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/96d31bfac97129d4.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/copilot_tabnine_random_forest.mp4",
+    "id": "3b26cfd998f11c2f",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/3b26cfd998f11c2f.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/chat/inline-pin-context.png",
+    "id": "0372e8144d2628c3",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/0372e8144d2628c3.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/chat/stats.png",
+    "id": "f3b0e8eaff4e75e0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f3b0e8eaff4e75e0.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/chat/regenerate-with-context.png",
+    "id": "50a2474d5f780b46",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/50a2474d5f780b46.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/chat/retry.png",
+    "id": "bf959f474f3f5036",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/bf959f474f3f5036.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/command_growth_1.png",
+    "id": "dfa6321451cbc9fc",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/dfa6321451cbc9fc.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/command_gpt_35_example.png",
+    "id": "99735c091e2ea359",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/99735c091e2ea359.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/chat/copy-clipboard.mp4",
+    "id": "da3d1be008a1e392",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/da3d1be008a1e392.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/command_growth_2.png",
+    "id": "5f6e8660bc098986",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/5f6e8660bc098986.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/command_growth_3.png",
+    "id": "a5defe04a9c85830",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a5defe04a9c85830.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/command/command_codelens.mp4",
+    "id": "f4a59f8d56b74ed0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f4a59f8d56b74ed0.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/command/command_refactor_option.mp4",
+    "id": "8f7d9412f97bf664",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/8f7d9412f97bf664.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codeium_command_vscode.mp4",
+    "id": "76996b48bcee0d1a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/76996b48bcee0d1a.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/command_growth_4.png",
+    "id": "f43fc63925dc73e7",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f43fc63925dc73e7.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/command/command_follow_up.mp4",
+    "id": "7ed2b1e5a62074bd",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/7ed2b1e5a62074bd.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/context_pinning_ux_1.png",
+    "id": "04b57d981cee421e",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/04b57d981cee421e.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/context_pinning_ux_2.png",
+    "id": "d8e03d52b4d935a8",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d8e03d52b4d935a8.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/context_pinning_ux_3.png",
+    "id": "2a214c7cb6388cbf",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/2a214c7cb6388cbf.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/context_pinning_tailwind_no_context.mp4",
+    "id": "c4a3bb70811d2683",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/c4a3bb70811d2683.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/context_pinning_tailwind_with_context.mp4",
+    "id": "88bbf34e9855d6d5",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/88bbf34e9855d6d5.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codeium_command_demo.gif",
+    "id": "69067ae56a49b815",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/69067ae56a49b815.gif",
+    "contentType": "image/gif",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/head_to_head/replit_tabnine_rf.mp4",
+    "id": "d4a3f86bcf339269",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d4a3f86bcf339269.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/context_pinning_agnostic.mp4",
+    "id": "a5b77ca43f5808a7",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a5b77ca43f5808a7.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codeium_vim_demo_website.mp4",
+    "id": "218d34c544e804a7",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/218d34c544e804a7.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/ides/visual_studio.png",
+    "id": "e33ce101a5020ec0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/e33ce101a5020ec0.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/emacs_demo.mp4",
+    "id": "0ef36680c4a77a3d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/0ef36680c4a77a3d.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/ides/eclipse.png",
+    "id": "ec94dd91dac6826c",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/ec94dd91dac6826c.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codeium_demo_eclipse.mp4",
+    "id": "6a1c5d9e44b2e2db",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/6a1c5d9e44b2e2db.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codeium_demo_visualstudio.mp4",
+    "id": "db77a4c176ee1c11",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/db77a4c176ee1c11.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/codeium_live/live_homepage.png",
+    "id": "8206731488639820",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/8206731488639820.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/hero_soc2.png",
+    "id": "37393ab2325ca163",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/37393ab2325ca163.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/codeium_live/chatgpt_thretle.png",
+    "id": "ea22c241233eb19e",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/ea22c241233eb19e.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/soc2_badge.jpg",
+    "id": "0fb5b6ff1e2f3b1c",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/0fb5b6ff1e2f3b1c.jpg",
+    "contentType": "image/jpeg",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/chrome_demo.mp4",
+    "id": "24922824d350a637",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/24922824d350a637.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/codeium_live/live_thretle.png",
+    "id": "30b5141243458fc1",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/30b5141243458fc1.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/codeium_live/chatgpt_torch.png",
+    "id": "ffd431d243e0afee",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/ffd431d243e0afee.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/codeium_live/live_torch.png",
+    "id": "291945d2a91d1f54",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/291945d2a91d1f54.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/stackoverflow_2024_usage.png",
+    "id": "f82847ee2b2918a0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f82847ee2b2918a0.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/stackoverflow_2023_professional_use.png",
+    "id": "cbfffee0558eb298",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/cbfffee0558eb298.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/stackoverflow_2024_pulse_professional_use.png",
+    "id": "8935770deea4a867",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/8935770deea4a867.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/codeium_live/codeium_live_react_demo.mp4",
+    "id": "0f268c88923e71a0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/0f268c88923e71a0.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/demo_indexing_access_controls.mp4",
+    "id": "e7f7addb306e423a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/e7f7addb306e423a.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/demo_subteam_analytics.mp4",
+    "id": "366440041f56dc4d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/366440041f56dc4d.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/stackoverflow_2024_admired_desired.png",
+    "id": "de24e079166831ff",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/de24e079166831ff.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/context_module_diagram.png",
+    "id": "0d8bd13b01df02eb",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/0d8bd13b01df02eb.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/stackoverflow_survey_sentiment.png",
+    "id": "199529029690045d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/199529029690045d.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/context_module/AutocompleteChainConfig_Copilot.mp4",
+    "id": "06925f16d33a0aa8",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/06925f16d33a0aa8.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codesandbox_enable_workspace.mp4",
+    "id": "6c89a71f9ddf4f21",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/6c89a71f9ddf4f21.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codeium_notebook_demo_website.mp4",
+    "id": "cab35735bc93d6e9",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/cab35735bc93d6e9.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/context_module/CodeiumInitializeAgents.mp4",
+    "id": "92faf9aa74db4ef9",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/92faf9aa74db4ef9.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/context_module/CopilotInitializeAgents.mp4",
+    "id": "9bf5ff192942b925",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/9bf5ff192942b925.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/context_module/AutocompleteChainConfig_Codeium.mp4",
+    "id": "042c46327b01863b",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/042c46327b01863b.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/context_module/ContextChatDemo1-MRKLAgent.mp4",
+    "id": "e59105e973ace553",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/e59105e973ace553.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/context_module/CopilotChatDemo1-MRKLAgent.mp4",
+    "id": "3eb0123992826aec",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/3eb0123992826aec.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gpl/gpl_copilot_filter_disabled_regurgitation.mp4",
+    "id": "7179262a9116bee5",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/7179262a9116bee5.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/context_module/CopilotChatDemo2-MRKLAgent.mp4",
+    "id": "a12c6fc2cba307f2",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a12c6fc2cba307f2.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/context_module/ContextChatDemo2-MRKLAgent.mp4",
+    "id": "aa235ce22a328fcd",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/aa235ce22a328fcd.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gpl/gpl_copilot_filter_enabled_regurgitation.mp4",
+    "id": "94f8e152eed86eb6",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/94f8e152eed86eb6.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gpl/gpl_copilot_filter_enabled_no_gen.mp4",
+    "id": "346f7bdabd36bb58",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/346f7bdabd36bb58.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gpl/gpl_copilot_ffmpeg_license.mp4",
+    "id": "a48bfbe3df7cf3cc",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a48bfbe3df7cf3cc.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gpl/gpl_codeium_ffmpeg_license.mp4",
+    "id": "a95a002f3cbaa3de",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a95a002f3cbaa3de.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codeium_databricks_demo.mp4",
+    "id": "9297ddc8cb53f430",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/9297ddc8cb53f430.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/copilot_enterprise_offering.png",
+    "id": "579e378b847931cc",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/579e378b847931cc.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gpl/gpl_codeium_regurgitation.mp4",
+    "id": "d032a3b77aee9b96",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d032a3b77aee9b96.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/copilot_security_sql_injection.mp4",
+    "id": "c81d9d24439090c5",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/c81d9d24439090c5.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codesandbox_enable_devbox.mp4",
+    "id": "6ce832bc14ba2934",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/6ce832bc14ba2934.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/copilot_security_hardcoded_secrets.mp4",
+    "id": "cf65011fb874447d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/cf65011fb874447d.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/copilot_security_path_injection.mp4",
+    "id": "66ba6f863a97a7b3",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/66ba6f863a97a7b3.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/gitlab_wordmark.png",
+    "id": "ab21709f3185e9c1",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/ab21709f3185e9c1.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gitlab/gitlab_toposort.thumbnail.png",
+    "id": "7f2682be18d5351b",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/7f2682be18d5351b.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gitlab/gitlab_fib_python.mp4",
+    "id": "cae9466e74c350c8",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/cae9466e74c350c8.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gitlab/gitlab_toposort.mp4",
+    "id": "fda983cd1d3f86a0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/fda983cd1d3f86a0.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gitlab/gitlab_fib_python.thumbnail.png",
+    "id": "e2d92c0ec63c285e",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/e2d92c0ec63c285e.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gitlab/gitlab_fib_cpp.mp4",
+    "id": "605a43b6c2e4459e",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/605a43b6c2e4459e.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/real_vs_perceived_value.png",
+    "id": "15e9ea58b4828fb5",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/15e9ea58b4828fb5.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/gemini/gemini_bad_tokenization.png",
+    "id": "beaaa1c24dd79f6a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/beaaa1c24dd79f6a.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/gemini/gemini_low_quality_fim.mp4",
+    "id": "7fd43ab487ef5ea3",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/7fd43ab487ef5ea3.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/gemini/gemini_no_generations.mp4",
+    "id": "411d85d369734830",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/411d85d369734830.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/gemini/gemini_chat_only_current_tab_context.mp4",
+    "id": "d5babf5a4931bedf",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d5babf5a4931bedf.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/human_tool_interface/human_tool_2.png",
+    "id": "d7dccb6df1e1f6e1",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d7dccb6df1e1f6e1.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/gitlab/gitlab_time_cpp.mp4",
+    "id": "0d2a357dc07697e8",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/0d2a357dc07697e8.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/human_tool_interface/human_tool_1.png",
+    "id": "7517bbe1cc53bab1",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/7517bbe1cc53bab1.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/gemini/gemini_poor_command_and_suggestions.mp4",
+    "id": "ca447a9bc3ecefb3",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/ca447a9bc3ecefb3.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/human_tool_interface/human_tool_3.png",
+    "id": "8d4446b76366d75d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/8d4446b76366d75d.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/human_tool_interface/human_tool_5.png",
+    "id": "193dc4418f0c059f",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/193dc4418f0c059f.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/human_tool_interface/human_tool_4.png",
+    "id": "bbf77c32373050fd",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/bbf77c32373050fd.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/human_tool_interface/human_tool_9.png",
+    "id": "295f1ea2bdca553a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/295f1ea2bdca553a.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/human_tool_interface/human_tool_7.png",
+    "id": "5729e0e0db22526f",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/5729e0e0db22526f.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/human_tool_interface/human_tool_8.png",
+    "id": "2d2dd9ccc2f2ae1c",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/2d2dd9ccc2f2ae1c.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/human_tool_interface/human_tool_6.png",
+    "id": "26016c943ba52d12",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/26016c943ba52d12.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/human_tool_interface/human_tool_10.png",
+    "id": "5137795169097171",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/5137795169097171.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/deployment_architecture_saas.png",
+    "id": "ef10c005b0b5d218",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/ef10c005b0b5d218.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/inline_fim/inline_fim_copilot.mp4",
+    "id": "b204a4d830c64968",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/b204a4d830c64968.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/deployment_architecture_hybrid.png",
+    "id": "19487f4ab92b6b89",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/19487f4ab92b6b89.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/inline_fim/inline_fim_codeium_repair.mp4",
+    "id": "f299130717250fba",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f299130717250fba.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/inline_fim/inline_fim_codeium.mp4",
+    "id": "1f32503835c4a7ce",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/1f32503835c4a7ce.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/product/codeium_search_setting.png",
+    "id": "4e423b199dd62401",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/4e423b199dd62401.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/chat/function-mention.mp4",
+    "id": "bdeed82b94826c9a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/bdeed82b94826c9a.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/mongodb_tutorial/mongodb_tutorial_autocomplete_screenshot.png",
+    "id": "0a446931b0a67831",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/0a446931b0a67831.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/mongodb_tutorial/mongodb_tutorial_try_catch.png",
+    "id": "8f0648cb519d47d8",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/8f0648cb519d47d8.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/mongodb_tutorial/mongodb_tutorial_homepage.png",
+    "id": "3a452fe9071cbd08",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/3a452fe9071cbd08.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/mongodb_tutorial/mongodb_tutorial_code_lenses.png",
+    "id": "78684ab64637921c",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/78684ab64637921c.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/mongodb_tutorial/mongodb_tutorial_chat_context.png",
+    "id": "fc5b91472a1e7fb4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/fc5b91472a1e7fb4.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/mongodb_tutorial/mongodb_tutorial_form.png",
+    "id": "b77b0a0ca5d01798",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/b77b0a0ca5d01798.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/remote_indexing_modal.png",
+    "id": "dee8d0fd40622e91",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/dee8d0fd40622e91.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/hero_personalization_codeium_copilot.png",
+    "id": "50f7ade961f34dad",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/50f7ade961f34dad.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/at-terminal-sift.mp4",
+    "id": "a29e20fc65f4013d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a29e20fc65f4013d.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/termium_git_demo.mp4",
+    "id": "a0d37369af1a0525",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a0d37369af1a0525.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/finetuning/GenerativeAgent1-ReturnType-Codeium.mp4",
+    "id": "7bfd2b2785cc5b93",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/7bfd2b2785cc5b93.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/finetuning/GenerativeAgent2-MemoryImplement-Copilot.mp4",
+    "id": "81ed93a21c8f78f2",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/81ed93a21c8f78f2.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/finetuning/GenerativeAgent1-ReturnType-Copilot.mp4",
+    "id": "b6d18097f2d33350",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/b6d18097f2d33350.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/jetbrains_command_generate.mp4",
+    "id": "d45844e156e5bdfd",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d45844e156e5bdfd.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/finetuning/GenerativeAgent3-vectorStore-Copilot.mp4",
+    "id": "02fa7e52b6e3e52a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/02fa7e52b6e3e52a.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/finetuning/GenerativeAgent3-vectorestore-Codeium.mp4",
+    "id": "c122d34f395b3225",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/c122d34f395b3225.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/finetuning/GenerativeAgent2-MemoryImplement-Codeium.mp4",
+    "id": "8a379a3a038db248",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/8a379a3a038db248.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/finetuning/GenerativeAgent4-GenerativeAgentMemory-Copilot.mp4",
+    "id": "7990ef9086e54da6",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/7990ef9086e54da6.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/finetuning/GenerativeAgent4-GenerativeAgentMemory-Codeium.mp4",
+    "id": "9cfda0ed956f3a59",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/9cfda0ed956f3a59.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codewhisperer_poor_fim.mp4",
+    "id": "d4e85c4b56a1a5ed",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d4e85c4b56a1a5ed.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codewhisperer_few_suggestions.mp4",
+    "id": "c5f30ee6ebfaa500",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/c5f30ee6ebfaa500.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/termium_kubectl_demo.mp4",
+    "id": "d65976b41305bd0a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d65976b41305bd0a.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/termium_discover_commands.mp4",
+    "id": "b23c3bd9feba25b4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/b23c3bd9feba25b4.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codewhisperer_q_no_closed_file_context.mp4",
+    "id": "e3d6ba9691321360",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/e3d6ba9691321360.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/billboard_full_of_life_santa_clara.jpg",
+    "id": "5c77e2cb39647a34",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/5c77e2cb39647a34.jpg",
+    "contentType": "image/jpeg",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/billboard_full_of_life_belmont.jpg",
+    "id": "293ede3c8fce294d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/293ede3c8fce294d.jpg",
+    "contentType": "image/jpeg",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/codewhisperer_q_single_file_context.mp4",
+    "id": "33a5de6210561bd0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/33a5de6210561bd0.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/videos/cascade_jetbrains/jetbrains_context_aware.mp4",
+    "id": "9c1bdc8c1364582a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/9c1bdc8c1364582a.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/demos/jetbrains_theme_support.mp4",
+    "id": "05fc9475a0bed743",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/05fc9475a0bed743.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/codeium_live/chatgpt_langchain.png",
+    "id": "9f9a6b7cc8cc7032",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/9f9a6b7cc8cc7032.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/codeium_live/live_langchain.png",
+    "id": "c3c8d9783a26aed2",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/c3c8d9783a26aed2.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/chat/chat_diff_view_docstring_generation.poster.png",
+    "id": "f33a7a7681770158",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f33a7a7681770158.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/hero/windsurf-univsersity-cover.png",
+    "id": "503422d8ba649ee4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/503422d8ba649ee4.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/gartner2025/gartner2025-mq.jpg",
+    "id": "31d5725155302d0a",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/31d5725155302d0a.jpg",
+    "contentType": "image/jpeg",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/changelog/windsurf/1.12.31/gpt-5-1-changelog.png",
+    "id": "aba23ef9c9850506",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/aba23ef9c9850506.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/changelog/windsurf/1.12.43/gpt-5.2.png",
+    "id": "fd7bb2e1356e42d5",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/fd7bb2e1356e42d5.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/changelog/windsurf/1.13.8/GPT-5.2-Codex-Img.png",
+    "id": "dc5555b37fcd7411",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/dc5555b37fcd7411.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/glm-5-minimax-m2.5/glm-5-minimax-m2.5-blog-card.png",
+    "id": "0f892e9ec5c09367",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/0f892e9ec5c09367.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/brand/windsurf-black-wordmark.png",
+    "id": "e1711fc351215f96",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/e1711fc351215f96.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/windsurf/queued-messages.jpg",
+    "id": "55ed2cd6aba01ee0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/55ed2cd6aba01ee0.jpg",
+    "contentType": "image/jpeg",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/gpt-5.3-codex-spark/gpt-5.3-codex-spark-blog-card.png",
+    "id": "fe5f3b84bbe00e5d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/fe5f3b84bbe00e5d.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/gpt-5.4/gpt-5.4-blog-card.png",
+    "id": "4c88c076deff93c0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/4c88c076deff93c0.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/swe1-5/swe_bench_pro_results.jpg",
+    "id": "7fd934d8303727ef",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/7fd934d8303727ef.jpg",
+    "contentType": "image/jpeg",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/swe1-5/swe-15-speed-score.jpg",
+    "id": "949229a126432303",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/949229a126432303.jpg",
+    "contentType": "image/jpeg",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/opus-4.6/opus-4.6-blog-card.png",
+    "id": "5cced0fb6077b959",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/5cced0fb6077b959.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/windsurf-2-0/command-center.jpg",
+    "id": "a9c955a1dea3c41d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a9c955a1dea3c41d.jpg",
+    "contentType": "image/jpeg",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/windsurf-adaptive/adaptive-model-picker.png",
+    "id": "f518b4167bb7d6f8",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f518b4167bb7d6f8.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/windsurf-adaptive/opus-pricing-card.png",
+    "id": "b92de2c03922b5d1",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/b92de2c03922b5d1.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/windsurf-adaptive/prompt-cache-timer.png",
+    "id": "d5c450caf634c56c",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/d5c450caf634c56c.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/69e2171c63404a759a5e211b55fdad922005b798-2100x1103.png",
+    "id": "8b6b689cd39f4e78",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/8b6b689cd39f4e78.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/bfea2865c3ef40c755bb8bdaf296013902808aa4-1134x409.png",
+    "id": "688a9b8882f17541",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/688a9b8882f17541.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/1af7fbf0e7be11ea2cc187d88b3052725f085a03-1094x822.png",
+    "id": "620c63f75bc5e8fd",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/620c63f75bc5e8fd.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/e1d28899200649dcdea56f7bdccbf845f3f373a0-1766x1682.jpg",
+    "id": "a88a485a4efbe2ae",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a88a485a4efbe2ae.jpg",
+    "contentType": "image/jpeg",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/d61b05e999f70bc5e4038812700cde8fb02e6305-392x487.png",
+    "id": "2cf722d79e66f7c9",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/2cf722d79e66f7c9.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/7c7052bd0624ef4b10d603b2353ef2e8bb3767a6-949x698.png",
+    "id": "3a9f5c30d8349379",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/3a9f5c30d8349379.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/3422b9ad9fb1ab432ae406752b590604711c6a62-1225x775.png",
+    "id": "f1568c786469a9c4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f1568c786469a9c4.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/90839d1262b01fd2cf70c1177c9539e1a5bffd27-675x472.png",
+    "id": "55ea445cf652b9f3",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/55ea445cf652b9f3.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/94a3894661219266970876cb1e860b5bacf0fdf5-1195x763.png",
+    "id": "cfc3fdd953fff9e3",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/cfc3fdd953fff9e3.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/d35339b2e4e9f9b826d0f126590b66cd4242c7f5-1406x766.png",
+    "id": "249886d8920f82a0",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/249886d8920f82a0.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/699542757a9d9272921c46eaab8a6a14c76c55b5-954x945.png",
+    "id": "015f5cb794e1197c",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/015f5cb794e1197c.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/32fc43fe627e3ba3dfce8d9bccfca00422ca1aa0-652x629.png",
+    "id": "f853f6921d1e1dae",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f853f6921d1e1dae.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://cdn.sanity.io/images/2mc9cv2v/production/eba72339c020c3375834105d352785a7f9a1d2db-2952x1760.png",
+    "id": "914aeb9ecfabe112",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/914aeb9ecfabe112.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/analytics-pcw.jpg",
+    "id": "a591b77adae46f28",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a591b77adae46f28.jpg",
+    "contentType": "image/jpeg",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave11/voice-mode.mp4",
+    "id": "45f34f21ddf0ab06",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/45f34f21ddf0ab06.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave11/planning-mode-jb.mp4",
+    "id": "2b0a3840d272b004",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/2b0a3840d272b004.mp4",
+    "contentType": "video/mp4",
+    "kind": "video"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave13/dedicated-terminal.png",
+    "id": "1f82c65fe4ee80b2",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/1f82c65fe4ee80b2.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave13/user1.png",
+    "id": "7af443d484fbb56f",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/7af443d484fbb56f.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave13/context-window-indicator.png",
+    "id": "ffd1320c40d2dce8",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/ffd1320c40d2dce8.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave13/user2.png",
+    "id": "9e14340f8960d3bd",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/9e14340f8960d3bd.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave14/arena-model-picker.png",
+    "id": "f9554020a07d995b",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/f9554020a07d995b.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave14/arena-vote-buttons.png",
+    "id": "97f60ee658e142a4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/97f60ee658e142a4.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave14/arena-mode-side-by-side.png",
+    "id": "91356039ba8d2c7e",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/91356039ba8d2c7e.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave14/arena-leaderboard.png",
+    "id": "fa569c458759c5b2",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/fa569c458759c5b2.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave14/best-of-n-research.png",
+    "id": "6084a90fbb1a4a44",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/6084a90fbb1a4a44.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave14/plan-mode-toggle.png",
+    "id": "ae46276f3156f3c4",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/ae46276f3156f3c4.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave14/megaplan-interaction.png",
+    "id": "a196aff7cd351b38",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/a196aff7cd351b38.png",
+    "contentType": "image/png",
+    "kind": "image"
+  },
+  {
+    "url": "https://exafunction.github.io/public/images/blog/wave14/arena-completed-comparison.png",
+    "id": "8ea6f34b8dcc371d",
+    "path": "/Users/betopiagroup/.codex/.chatgpt-projects/g-p-6a8977d5b66c8191ba062a23ec87e58a/puku-website/public/assets/8ea6f34b8dcc371d.png",
+    "contentType": "image/png",
+    "kind": "image"
+  }
+]

@@ -1,0 +1,1592 @@
+/* Devin University — devin.ai design system (marketing site tokens) */
+
+@font-face {
+  font-family: "NB International Pro";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/assets/8f7590be9363096d.woff2) format("woff2");
+}
+@font-face {
+  font-family: "NB International Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/8f7590be9363096d.woff2) format("woff2");
+}
+@font-face {
+  font-family: "NB International Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/assets/8f7590be9363096d.woff2) format("woff2");
+}
+@font-face {
+  font-family: "NB International Pro";
+  font-style: normal;
+  font-weight: 600 700;
+  font-display: swap;
+  src: url(/assets/8f7590be9363096d.woff2) format("woff2");
+}
+@font-face {
+  font-family: "NB International Pro";
+  font-style: italic;
+  font-weight: 400 500;
+  font-display: swap;
+  src: url(/assets/8f7590be9363096d.woff2) format("woff2");
+}
+@font-face {
+  font-family: "STK Bureau Serif";
+  font-style: normal;
+  font-weight: 300 400;
+  font-display: swap;
+  src: url(/assets/8f7590be9363096d.woff2) format("woff2");
+}
+@font-face {
+  font-family: "STK Bureau Serif";
+  font-style: normal;
+  font-weight: 500 600;
+  font-display: swap;
+  src: url(/assets/8f7590be9363096d.woff2) format("woff2");
+}
+
+.route-university :is(.route-university,#app) {
+  --bg: #f7f6f5;
+  --surface: #ffffff;
+  --ink: #191919;
+  --ink-2: #595959;
+  --ink-3: #6b6b6b;
+  --line: rgba(0, 0, 0, 0.06);
+  --blue: #2200ff;
+  --blue-dark: #2200ff;
+  --blue-soft: rgba(34, 0, 255, 0.05);
+  --green: #006b4f;
+  --green-soft: #e7f7f0;
+  --hover-bg: rgba(0, 0, 0, 0.04);
+  --card-hover-border: rgba(0, 0, 0, 0.2);
+  --amber: #b97f10;
+  --amber-soft: #fdf3df;
+  --radius: 2px;
+  --shadow: none;
+  --font: "NB International Pro", system-ui, sans-serif;
+  --serif: "STK Bureau Serif", Georgia, serif;
+  --mono: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --font-weight-strong: 600;
+  --topbar-h: 60px;
+}
+
+.route-university * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.route-university :is(.route-university,#app) {
+  scroll-behavior: smooth;
+  /* canvas color revealed by macOS overscroll bounce; matches topbar/footer */
+  background: var(--surface);
+}
+.route-university :is(.route-university,#app) {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+  line-height: 1.4;
+}
+.route-university ::selection {
+  background-color: var(--blue);
+  color: var(--bg);
+}
+.route-university a {
+  color: inherit;
+  text-decoration: none;
+}
+.route-university button {
+  font: inherit;
+  cursor: pointer;
+}
+
+/* ---------- Legacy-app banner (catalog home only) ---------- */
+.route-university .legacy-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 10px 28px;
+  font-size: 14px;
+  text-align: center;
+  color: var(--ink);
+  background: var(--surface);
+  border-bottom: 1px solid var(--line);
+}
+.route-university .legacy-banner a {
+  color: var(--blue);
+  text-decoration: underline;
+}
+.route-university .legacy-banner-dismiss {
+  border: 0;
+  background: none;
+  padding: 0 4px;
+  font-size: 18px;
+  line-height: 1;
+  color: var(--ink-2);
+}
+.route-university .legacy-banner-dismiss:hover {
+  color: var(--ink);
+}
+
+/* ---------- Top bar ---------- */
+.route-university .topbar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 0 28px;
+  height: var(--topbar-h);
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--line);
+}
+.route-university .brand {
+  display: flex;
+  align-items: center;
+}
+.route-university .brand .logo {
+  height: 20px;
+  width: auto;
+  display: block;
+  margin-top: -4px;
+}
+.route-university .topbar nav {
+  display: flex;
+  gap: 22px;
+  font-size: 15px;
+  color: var(--ink-2);
+}
+.route-university .topbar nav a:hover {
+  color: var(--ink);
+}
+.route-university .topbar .spacer {
+  flex: 1;
+}
+/* Topbar language switcher: globe + current locale code, opening a popover
+   menu (ported from university-next's LanguageMenu styles). */
+.route-university .lang-menu {
+  position: relative;
+  --lang-menu-gutter: 20px;
+}
+.route-university .lang-menu-button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  color: var(--ink);
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+}
+.route-university .lang-menu-button:hover {
+  background: var(--hover-bg);
+}
+.route-university .lang-menu-globe {
+  flex: none;
+  color: var(--ink-2);
+}
+.route-university .lang-menu-pop {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  min-width: 190px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 6px 0;
+  z-index: 50;
+}
+.route-university .auth-menu-item {
+  display: block;
+  width: 100%;
+  padding: 8px var(--lang-menu-gutter);
+  background: none;
+  border: none;
+  color: var(--ink);
+  font: inherit;
+  font-size: 13.5px;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+}
+.route-university .auth-menu-item:hover {
+  background: var(--hover-bg);
+}
+/* Label left, check right: the check can't push the label around, so rows
+   don't shift horizontally when the selection changes. */
+.route-university .auth-menu-locale {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+.route-university .auth-menu-check {
+  flex: none;
+  color: var(--ink-3);
+}
+.route-university .btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border-radius: 2px;
+  padding: 6px 12px 5px;
+  font-size: 14px;
+  font-weight: 400;
+  border: 1px solid var(--ink);
+  background: transparent;
+  color: var(--ink);
+  transition: all 0.15s ease;
+}
+.route-university .btn:hover {
+  background: var(--ink);
+  color: #fff;
+}
+.route-university .btn.primary,
+.route-university .btn.dark {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: #fff;
+}
+.route-university .btn.primary:hover,
+.route-university .btn.dark:hover {
+  opacity: 0.8;
+}
+.route-university .btn.lg {
+  padding: 8px 16px 7px;
+  font-size: 16px;
+  border-radius: 2px;
+}
+
+/* ---------- Layout: sidebar + main ---------- */
+.route-university .shell {
+  display: flex;
+  min-height: calc(100vh - var(--topbar-h));
+  position: relative;
+  z-index: 1;
+}
+
+/* Contexts (e.g. .flow-mode) tune the --sidebar-* variables; states
+   (e.g. .collapsed) set properties directly. Keeping the two on different
+   layers means they never compete on specificity. */
+.route-university .sidebar {
+  --sidebar-w: 300px;
+  --sidebar-pad-top: 22px;
+  --sidebar-pad-x: 16px;
+  --sidebar-pad-bottom: 40px;
+  width: var(--sidebar-w);
+  flex-shrink: 0;
+  border-right: 1px solid var(--line);
+  background: var(--surface);
+  padding: var(--sidebar-pad-top) var(--sidebar-pad-x) var(--sidebar-pad-bottom);
+  position: sticky;
+  top: var(--topbar-h);
+  height: calc(100vh - var(--topbar-h));
+  overflow-y: auto;
+}
+.route-university .lesson-toc .course-label,
+.route-university .lesson-toc .course-name {
+  padding-right: 32px;
+}
+.route-university .sidebar .course-label {
+  display: inline-block;
+  width: fit-content;
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  padding: 0 10px;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.route-university a.course-label:hover {
+  color: var(--ink);
+}
+.route-university .sidebar .course-name {
+  font-weight: 400;
+  font-size: 16px;
+  padding: 2px 10px 12px;
+}
+
+.route-university .progress-wrap {
+  padding: 0 10px 18px;
+}
+.route-university .progress-bar {
+  height: 6px;
+  border-radius: 0;
+  background: #eef0f2;
+  overflow: hidden;
+}
+.route-university .progress-bar > div {
+  height: 100%;
+  border-radius: 0;
+  background: var(--blue);
+  transition: width 0.4s ease;
+}
+.route-university .progress-meta {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: var(--ink-3);
+  margin-top: 7px;
+}
+
+/* flow sidebar: acts > steps (> tour stops); doubles as flow navigation */
+.route-university .side-act {
+  margin-bottom: 6px;
+}
+.route-university .side-act-head {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  padding: 10px 10px 4px;
+}
+.route-university .side-step {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  line-height: 1.45;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  padding: 6px 10px;
+  border: 0;
+  background: transparent;
+  border-radius: 0;
+  font-size: 13px;
+  color: var(--ink-2);
+}
+.route-university .side-step:hover {
+  background: var(--hover-bg);
+}
+.route-university .side-step.active {
+  background: var(--blue-soft);
+  color: var(--blue-dark);
+  font-weight: 400;
+}
+.route-university .side-step .dot {
+  width: 16px;
+  height: 16px;
+  margin-top: 1px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  border: 1.5px solid #cdd1d6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  color: #fff;
+}
+.route-university .side-step.done .dot {
+  background: var(--green);
+  border-color: var(--green);
+}
+.route-university .side-stops {
+  padding: 1px 0 4px 28px;
+}
+.route-university .side-stop {
+  display: block;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  padding: 4px 10px;
+  border: 0;
+  background: transparent;
+  font-size: 12.5px;
+  color: var(--ink-3);
+}
+.route-university .side-stop:hover {
+  background: var(--hover-bg);
+}
+.route-university .side-stop.active {
+  color: var(--blue-dark);
+  font-weight: 400;
+}
+.route-university .side-restart {
+  display: block;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px 10px;
+  border: 0;
+  background: transparent;
+  font-size: 12.5px;
+  color: var(--ink-3);
+}
+.route-university .side-restart:hover {
+  color: var(--ink);
+  background: var(--hover-bg);
+}
+
+/* lesson table of contents: course lessons with completion state */
+.route-university .lesson-toc-list .side-step .toc-num {
+  font-family: var(--mono);
+  font-size: 11px;
+  line-height: inherit;
+  color: var(--ink-3);
+  flex-shrink: 0;
+}
+.route-university .lesson-toc-list .side-step.locked {
+  opacity: 0.55;
+  cursor: default;
+}
+.route-university .lesson-toc-list .side-step.locked:hover {
+  background: transparent;
+}
+.route-university .main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ---------- Course home ---------- */
+.route-university .hero {
+  display: grid;
+  grid-template-columns: minmax(320px, 1fr) minmax(0, 560px);
+  gap: 48px;
+  align-items: center;
+  padding: 64px 56px;
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+.route-university .hero-art img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 2px;
+  border: 1px solid var(--line);
+}
+.route-university .hero .eyebrow {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  margin-bottom: 18px;
+}
+.route-university .hero h1 {
+  font-size: 64px;
+  line-height: 1;
+  font-weight: 400;
+  letter-spacing: -1.92px;
+  max-width: 640px;
+  transform: translateX(-4px);
+}
+.route-university .hero p.sub {
+  margin-top: 18px;
+  font-size: 18px;
+  color: var(--ink-2);
+  max-width: 520px;
+}
+.route-university .hero .hero-cta {
+  margin-top: 28px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.route-university .hero .stats {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+.route-university .hero .stat {
+  flex: 1;
+}
+.route-university .hero .stat b {
+  display: block;
+  font-size: 22px;
+  font-weight: 400;
+}
+.route-university .hero .stat span {
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+.route-university .section {
+  padding: 72px 56px 20px;
+}
+.route-university .section + .section {
+  padding-top: 8px;
+}
+.route-university .section h2 {
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.64px;
+  margin-bottom: 6px;
+}
+.route-university .section .section-sub {
+  color: var(--ink-3);
+  font-size: 14px;
+  margin-bottom: 26px;
+}
+
+.route-university .module-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+  gap: 18px;
+}
+.route-university .module-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 2px;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition:
+    transform 0.15s ease,
+    border-color 0.15s ease;
+}
+.route-university .module-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--card-hover-border);
+}
+.route-university .module-card.coming-soon {
+  opacity: 0.6;
+  cursor: default;
+}
+.route-university .module-card.coming-soon:hover {
+  transform: none;
+  border-color: var(--line);
+}
+.route-university .module-card .row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.route-university .module-card .num {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+.route-university .module-card h3 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.2;
+  transform: translateX(-1px);
+}
+.route-university .module-card p {
+  font-size: 13.5px;
+  color: var(--ink-2);
+  flex: 1;
+}
+.route-university .module-card .meta {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 12.5px;
+  color: var(--ink-3);
+}
+.route-university .badge {
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 3px 9px;
+  border-radius: 2px;
+}
+.route-university .badge.todo {
+  background: #f1f2f4;
+  color: var(--ink-2);
+}
+.route-university .badge.progress {
+  background: var(--blue-soft);
+  color: var(--blue-dark);
+}
+.route-university .badge.done {
+  background: var(--green-soft);
+  color: var(--green);
+}
+
+/* ---------- Module landing ---------- */
+.route-university .crumbs {
+  font-size: 13px;
+  color: var(--ink-3);
+  margin-bottom: 18px;
+}
+.route-university .crumbs a:hover {
+  color: var(--ink);
+}
+.route-university .module-hero {
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  gap: 44px;
+  padding: 48px 56px;
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+.route-university .module-hero .eyebrow {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--blue-dark);
+  margin-bottom: 10px;
+}
+.route-university .module-hero h1 {
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: -1.2px;
+  line-height: 1.04;
+}
+.route-university .module-hero .tagline {
+  margin-top: 12px;
+  color: var(--ink-2);
+  font-size: 15.5px;
+}
+.route-university .module-hero .meta-row {
+  display: flex;
+  gap: 18px;
+  margin: 20px 0 26px;
+  font-size: 13px;
+  color: var(--ink-3);
+}
+.route-university .module-hero .btn {
+  margin-top: 28px;
+}
+
+.route-university .objectives {
+  margin-top: 8px;
+}
+.route-university .objectives h4 {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 12px;
+}
+.route-university .objectives li {
+  list-style: none;
+  display: flex;
+  gap: 11px;
+  padding: 7px 0;
+  font-size: 13.8px;
+  color: var(--ink-2);
+}
+.route-university .objectives li::before {
+  content: "✓";
+  color: var(--blue);
+  flex-shrink: 0;
+}
+
+.route-university .course-art img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 2px;
+  border: 1px solid var(--line);
+}
+.route-university .video-card {
+  border-radius: 2px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: #0e1116;
+  aspect-ratio: 16/9;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+.route-university .video-card .vignette {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(
+      420px 220px at 20% 15%,
+      rgba(45, 114, 246, 0.35),
+      transparent 70%
+    ),
+    radial-gradient(
+      360px 220px at 85% 90%,
+      rgba(122, 167, 251, 0.18),
+      transparent 70%
+    );
+}
+.route-university .video-card .play {
+  position: relative;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.95);
+  color: var(--ink);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  border: 0;
+}
+.route-university .video-card .vid-label {
+  position: absolute;
+  left: 18px;
+  bottom: 14px;
+  font-size: 12.5px;
+  color: rgba(255, 255, 255, 0.85);
+}
+.route-university .video-card .vid-dur {
+  position: absolute;
+  right: 16px;
+  bottom: 14px;
+  font-size: 11.5px;
+  background: rgba(0, 0, 0, 0.55);
+  padding: 3px 8px;
+  border-radius: 0;
+}
+.route-university .video-note {
+  font-size: 12px;
+  color: var(--ink-3);
+  margin-top: 10px;
+}
+
+.route-university .lesson-list {
+  padding: 40px 56px 72px;
+}
+.route-university .lesson-list h2 {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 16px;
+}
+.route-university .lesson-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 0;
+  padding: 15px 20px;
+  margin-bottom: 10px;
+  transition: border-color 0.15s ease;
+}
+.route-university .lesson-row:hover {
+  border-color: var(--card-hover-border);
+}
+.route-university .lesson-row .idx {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.45;
+  color: var(--ink-3);
+  width: 36px;
+}
+.route-university .lesson-row .t {
+  flex: 1;
+  font-size: 14.5px;
+  font-weight: 400;
+}
+.route-university .lesson-row .type {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  background: var(--bg);
+  border-radius: 2px;
+  padding: 4px 10px;
+}
+.route-university .lesson-row .type.sandbox {
+  background: var(--blue-soft);
+  color: var(--blue-dark);
+}
+.route-university .lesson-row .state {
+  font-size: 12px;
+  color: var(--ink-3);
+  width: 92px;
+  text-align: right;
+  margin-left: 12px;
+}
+.route-university .lesson-row .state.done {
+  color: var(--green);
+}
+.route-university .lesson-row .state.progress {
+  color: var(--blue-dark);
+}
+.route-university .lesson-row.coming-soon {
+  opacity: 0.55;
+}
+.route-university .lesson-row.coming-soon:hover {
+  border-color: var(--line);
+}
+
+/* ---------- Reading / video lesson page (full-width, no sidebar) ---------- */
+.route-university .lesson-page {
+  flex: 1;
+  padding: 56px 56px 80px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--line);
+}
+.route-university .lesson-page-inner {
+  max-width: 760px;
+  margin: 0 auto;
+}
+.route-university .lesson-page .crumbs {
+  margin-bottom: 22px;
+}
+.route-university .lesson-page .lesson-kicker {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--blue-dark);
+  margin-bottom: 8px;
+}
+.route-university .lesson-page h1 {
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: -1.2px;
+  line-height: 1.04;
+  margin-bottom: 24px;
+}
+.route-university .lesson-page .video-card.lesson-video {
+  margin-bottom: 8px;
+}
+.route-university .lesson-video-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+.route-university .lesson-video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.route-university .lesson-page .lesson-reading {
+  margin: 16px 0 24px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+.route-university .lesson-page .lesson-reading summary {
+  cursor: pointer;
+  padding: 14px 18px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink-2);
+  list-style-position: inside;
+}
+.route-university .lesson-page .lesson-reading summary:hover {
+  color: var(--ink);
+}
+.route-university .lesson-page .lesson-reading .script {
+  padding: 4px 18px 8px;
+}
+.route-university .lesson-page .script p {
+  font-family: var(--serif);
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--ink-2);
+  margin-bottom: 16px;
+}
+.route-university .lesson-page .script img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 24px 0;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+.route-university .lesson-page .script li {
+  font-family: var(--serif);
+}
+.route-university .script strong,
+.route-university .script b {
+  font-family: var(--serif);
+  font-weight: var(--font-weight-strong);
+  color: var(--ink);
+}
+.route-university .script ul,
+.route-university .script ol {
+  padding-left: 1.4em;
+  margin: 0 0 16px;
+}
+.route-university .script li {
+  margin-bottom: 8px;
+}
+.route-university .script table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 20px;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--ink-2);
+  border-top: 1px solid var(--ink);
+  border-bottom: 1px solid var(--line);
+}
+.route-university .script th,
+.route-university .script td {
+  padding: 12px 16px 12px 0;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--line);
+}
+.route-university .script th {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--ink);
+  background: transparent;
+}
+.route-university .script tbody tr:last-child td {
+  border-bottom: none;
+}
+.route-university .script .callout {
+  margin: 0 0 16px;
+  padding: 16px 18px;
+  background: var(--blue-soft);
+  border-left: 3px solid var(--blue);
+}
+.route-university .script .callout .callout-label {
+  display: block;
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--blue-dark);
+  margin-bottom: 6px;
+}
+.route-university .script .callout p {
+  margin: 0;
+}
+.route-university .lesson-page-nav {
+  display: flex;
+  gap: 12px;
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+}
+
+/* ---------- Quiz (knowledge check) lesson ---------- */
+.route-university .quiz-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 2px;
+  padding: 28px 32px;
+  margin-top: 24px;
+}
+.route-university .quiz-progress {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 12px;
+}
+.route-university .quiz-prompt {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+.route-university .quiz-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.route-university .quiz-option {
+  text-align: left;
+  padding: 13px 16px;
+  font-size: 14.5px;
+  line-height: 1.5;
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--ink);
+  transition: all 0.15s ease;
+}
+.route-university .quiz-option:hover:not(:disabled) {
+  border-color: var(--blue);
+  background: var(--blue-soft);
+}
+.route-university .quiz-option:disabled {
+  cursor: default;
+  color: var(--ink-2);
+}
+.route-university .quiz-option.correct {
+  border-color: var(--green);
+  background: var(--green-soft);
+  color: var(--ink);
+}
+.route-university .quiz-option.wrong {
+  border-color: #d64545;
+  background: #fbecec;
+  color: var(--ink);
+}
+.route-university .quiz-feedback {
+  margin-top: 18px;
+  padding: 14px 16px;
+  border-left: 3px solid var(--green);
+  background: var(--green-soft);
+  font-size: 14px;
+}
+.route-university .quiz-feedback.wrong {
+  border-left-color: var(--amber);
+  background: var(--amber-soft);
+}
+.route-university .quiz-feedback b {
+  display: block;
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  margin-bottom: 4px;
+}
+.route-university .quiz-feedback p {
+  margin: 0;
+  color: var(--ink-2);
+}
+.route-university .quiz-prompt a,
+.route-university .quiz-feedback a {
+  color: var(--blue);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.route-university .quiz-nav {
+  display: flex;
+  gap: 12px;
+  margin-top: 20px;
+}
+.route-university .quiz-results {
+  text-align: center;
+  padding: 40px 32px;
+}
+.route-university .quiz-score {
+  font-family: var(--mono);
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
+.route-university .quiz-score-note {
+  color: var(--ink-2);
+  margin-top: 8px;
+  font-size: 14.5px;
+}
+.route-university .quiz-results .quiz-nav {
+  justify-content: center;
+  margin-top: 28px;
+}
+
+/* ---------- Lesson page (sandbox pane) ---------- */
+.route-university .lesson-shell {
+  display: flex;
+  height: calc(100vh - var(--topbar-h) - 54px);
+}
+.route-university .pane-sandbox {
+  flex: 1.25;
+  min-width: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+}
+.route-university .sandbox-frame {
+  flex: 0 0 auto;
+  max-width: 100%;
+  max-height: 100%;
+  border: 1px solid var(--line);
+  border-radius: 2px;
+  background: var(--surface);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.route-university .sandbox-chrome {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--line);
+  background: #f7f8f9;
+}
+.route-university .sandbox-chrome .dots span {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.route-university .sandbox-chrome .dots span:nth-child(1) {
+  background: #f56b62;
+}
+.route-university .sandbox-chrome .dots span:nth-child(2) {
+  background: #f5bd4f;
+}
+.route-university .sandbox-chrome .dots span:nth-child(3) {
+  background: #53c64d;
+}
+.route-university .sandbox-chrome .url {
+  flex: 1;
+  min-width: 0;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink-3);
+  padding: 5px 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.route-university .sandbox-chrome .live {
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #fff;
+  background: var(--green);
+  border-radius: 2px;
+  padding: 3px 8px;
+}
+/* persistent lesson navigation attached to the simulated browser window */
+.route-university .flow-bottom-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 12px;
+  border-top: 1px solid var(--line);
+  background: var(--surface);
+}
+.route-university .flow-bottom-bar .btn[disabled] {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+/* course complete */
+.route-university .congrats {
+  padding: 96px 56px 72px;
+  text-align: center;
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+.route-university .congrats-badge {
+  width: 72px;
+  height: 72px;
+  margin: 0 auto 24px;
+  border-radius: 50%;
+  background: var(--blue);
+  color: #fff;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.route-university .congrats .eyebrow {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--blue-dark);
+}
+.route-university .congrats h1 {
+  font-size: 64px;
+  font-weight: 400;
+  letter-spacing: -1.92px;
+  line-height: 1;
+  margin: 12px 0 14px;
+}
+.route-university .congrats .sub {
+  font-size: 17px;
+  color: var(--ink-2);
+  max-width: 600px;
+  margin: 0 auto;
+}
+.route-university .congrats-stats {
+  display: flex;
+  justify-content: center;
+  gap: 56px;
+  margin-top: 40px;
+}
+.route-university .congrats-stats .stat b {
+  display: block;
+  font-size: 26px;
+  font-weight: 300;
+  letter-spacing: -0.5px;
+}
+.route-university .congrats-stats .stat span {
+  font-family: var(--mono);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--ink-3);
+}
+.route-university .congrats .hero-cta {
+  margin-top: 36px;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+.route-university .next-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin-top: 22px;
+}
+.route-university .next-card {
+  border: 1px solid var(--line);
+  background: #fff;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition:
+    border-color 0.15s,
+    transform 0.15s;
+}
+.route-university .next-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--card-hover-border);
+}
+.route-university .next-card .num {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--blue-dark);
+}
+.route-university .next-card h3 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.2;
+}
+.route-university .next-card p {
+  font-size: 13.5px;
+  color: var(--ink-2);
+  flex: 1;
+}
+.route-university .next-card .go {
+  font-size: 13px;
+  color: var(--blue-dark);
+}
+
+.route-university .callout {
+  border: 1px solid rgba(34, 0, 255, 0.2);
+  background: var(--blue-soft);
+  border-radius: 2px;
+  padding: 14px 16px;
+  font-size: 13px;
+  color: var(--blue-dark);
+  margin: 18px 0;
+}
+.route-university .callout b {
+  display: block;
+  margin-bottom: 4px;
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+/* footer */
+.route-university .footer {
+  margin-top: auto;
+  border-top: 1px solid var(--line);
+  background: var(--surface);
+  padding: 26px 56px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  font-size: 12.5px;
+  color: var(--ink-3);
+  position: relative;
+  z-index: 1;
+}
+.route-university .footer .made-with {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.route-university .footer .heart {
+  color: #b4232f;
+}
+
+/* flow mode: slim persistent sidebar nav, sandbox gets ~2/3 of viewport */
+.route-university :is(.route-university,#app):has(.shell.flow-mode) {
+  overflow: hidden;
+  height: 100vh;
+}
+.route-university .shell.flow-mode {
+  height: calc(100vh - var(--topbar-h));
+  min-height: 0;
+}
+.route-university .shell.flow-mode #flow-sidebar-slot {
+  height: 100%;
+}
+.route-university .shell.flow-mode .sidebar {
+  --sidebar-w: 240px;
+  --sidebar-pad-top: 18px;
+  --sidebar-pad-x: 10px;
+  --sidebar-pad-bottom: 32px;
+  position: relative;
+  top: 0;
+  height: 100%;
+}
+.route-university .shell.flow-mode .lesson-shell {
+  height: calc(100vh - var(--topbar-h));
+}
+
+/* collapsible sidebar: shrinks to a thin rail, content fades out */
+.route-university .sidebar {
+  transition:
+    width 0.25s ease,
+    padding 0.25s ease;
+}
+.route-university .sidebar.collapsed {
+  width: 40px;
+  padding-left: 8px;
+  padding-right: 8px;
+  overflow: hidden;
+}
+.route-university .sidebar > * {
+  transition: opacity 0.15s ease;
+}
+.route-university .side-collapse {
+  /* sticky (not absolute): the sidebar scrolls, and the button must stay
+     pinned to the top-right of the scrollport rather than scroll away. */
+  position: sticky;
+  top: 10px;
+  z-index: 2;
+  margin: calc(10px - var(--sidebar-pad-top))
+    calc(8px - var(--sidebar-pad-x)) -24px auto;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  cursor: pointer;
+  border-radius: 2px;
+  font-size: 13px;
+  line-height: 1;
+  color: var(--ink-3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.route-university .sidebar.collapsed .side-collapse {
+  /* .collapsed sets padding directly (not via --sidebar-pad-x), so the
+     margin above would pull the button flush against the sidebar edge. */
+  margin-right: 0;
+}
+.route-university .side-collapse:hover {
+  color: var(--ink);
+  background: var(--hover-bg);
+}
+.route-university .sidebar.collapsed > :not(.side-collapse) {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+.route-university .shell.flow-mode .pane-sandbox {
+  flex: 1;
+}
+
+/* embedded walkthrough (engine iframes inside the sandbox pane) */
+.route-university .sandbox-scale-wrap {
+  position: relative;
+  overflow: hidden;
+  background: #0d0d0f;
+}
+.route-university .sandbox-stage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform-origin: center center;
+  background: #0d0d0f;
+}
+.route-university .sandbox-screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  background: #0d0d0f;
+  opacity: 1;
+  transition: opacity 180ms ease;
+}
+.route-university .sandbox-screen.hidden-frame {
+  opacity: 0;
+  pointer-events: none;
+  z-index: -1;
+  visibility: hidden;
+}
+.route-university .sandbox-chrome .walkthrough-step {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  color: var(--ink-3);
+  white-space: nowrap;
+}
+
+@media (max-width: 1100px) {
+  .route-university .hero {
+    grid-template-columns: 1fr;
+  }
+  .route-university .module-hero {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---------- Phones ---------- */
+@media (max-width: 720px) {
+  .route-university :is(.route-university,#app) {
+    /* the wrapped two-row topbar; keeps the 100vh calc() offsets honest */
+    --topbar-h: 82px;
+  }
+  .route-university .topbar {
+    flex-wrap: wrap;
+    height: auto;
+    min-height: var(--topbar-h);
+    padding: 10px 14px;
+    gap: 8px 12px;
+  }
+  .route-university .topbar nav {
+    order: 10;
+    width: 100%;
+    gap: 16px;
+    font-size: 14px;
+    overflow-x: auto;
+  }
+  /* long localized labels must scroll the nav row, not wrap it taller
+     (calc offsets assume the two-row --topbar-h) */
+  .route-university .topbar nav a {
+    flex: none;
+    white-space: nowrap;
+  }
+  .route-university .brand .logo {
+    height: 15px;
+  }
+  .route-university .lang-menu-button {
+    padding: 5px 6px;
+  }
+  .route-university .btn {
+    padding: 5px 8px 4px;
+    font-size: 13px;
+  }
+  .route-university .btn.lg {
+    padding: 7px 12px 6px;
+    font-size: 15px;
+  }
+  .route-university .hero {
+    padding: 40px 20px;
+    gap: 28px;
+  }
+  .route-university .hero h1 {
+    font-size: 44px;
+    letter-spacing: -1.3px;
+  }
+  .route-university .section {
+    padding: 48px 20px 20px;
+  }
+  .route-university .module-hero {
+    padding: 36px 20px;
+    gap: 28px;
+  }
+  .route-university .module-hero h1 {
+    font-size: 32px;
+  }
+  .route-university .lesson-page {
+    padding: 32px 20px 64px;
+  }
+  .route-university .lesson-list {
+    padding: 32px 20px 56px;
+  }
+  .route-university .lesson-row {
+    gap: 10px;
+    padding: 13px 14px;
+  }
+  .route-university .lesson-row .idx {
+    width: 22px;
+  }
+  .route-university .lesson-row .state {
+    width: auto;
+    margin-left: 4px;
+  }
+  .route-university .shell:not(.flow-mode) {
+    flex-direction: column;
+  }
+  .route-university .shell:not(.flow-mode) .sidebar {
+    position: static;
+    width: 100%;
+    height: auto;
+    max-height: 45vh;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+  /* the stacked layout has no rail to collapse to: hide the toggle and
+     neutralize a persisted collapsed state */
+  .route-university .shell:not(.flow-mode) .sidebar .side-collapse {
+    display: none;
+  }
+  .route-university .shell:not(.flow-mode) .sidebar.collapsed {
+    padding: var(--sidebar-pad-top) var(--sidebar-pad-x)
+      var(--sidebar-pad-bottom);
+    overflow-y: auto;
+  }
+  .route-university .shell:not(.flow-mode) .sidebar.collapsed > :not(.side-collapse) {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+  .route-university .module-grid {
+    grid-template-columns: 1fr;
+  }
+  .route-university .next-grid {
+    grid-template-columns: 1fr;
+  }
+  .route-university .quiz-card {
+    padding: 20px;
+  }
+  .route-university .footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+    padding: 22px 20px;
+  }
+  .route-university .footer .made-with {
+    position: static;
+    transform: none;
+  }
+}

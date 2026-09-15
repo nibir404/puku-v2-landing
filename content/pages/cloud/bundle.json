@@ -1,0 +1,373 @@
+{
+  "assets": [
+    {
+      "contentType": "font/woff2",
+      "id": "0884f46c5660966b",
+      "kind": "font",
+      "name": "GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/0884f46c5660966b.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "addf6bd7e2725110",
+      "kind": "font",
+      "name": "STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/addf6bd7e2725110.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "9482f78c14552ae9",
+      "kind": "font",
+      "name": "IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/9482f78c14552ae9.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "5a78838a700761fc",
+      "kind": "font",
+      "name": "Inter_latin.p.45535valc9rzk.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/5a78838a700761fc.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/Inter_latin.p.45535valc9rzk.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "46afca314d0fd278",
+      "kind": "font",
+      "name": "NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/46afca314d0fd278.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "dcc96c913fae88e3",
+      "kind": "font",
+      "name": "NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/dcc96c913fae88e3.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6d83f78dde2e5ac0",
+      "kind": "image",
+      "name": "IconMergeBranch.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/6d83f78dde2e5ac0.svg",
+      "url": "https://devin.ai/assets/images/desktop/hero/icons/IconMergeBranch.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ccb6b26773d567ff",
+      "kind": "image",
+      "name": "ramp-logo.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/ccb6b26773d567ff.svg",
+      "url": "https://devin.ai/assets/images/cloud/ramp-logo.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "70739ae5d7671f41",
+      "kind": "image",
+      "name": "itau-logo.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/70739ae5d7671f41.svg",
+      "url": "https://devin.ai/assets/images/cloud/itau-logo.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "57c1dc6693c6063b",
+      "kind": "image",
+      "name": "nu-logo.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/57c1dc6693c6063b.svg",
+      "url": "https://devin.ai/assets/images/cloud/nu-logo.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "56bbf07c8a9e49fb",
+      "kind": "image",
+      "name": "rivian-logo.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/56bbf07c8a9e49fb.svg",
+      "url": "https://devin.ai/assets/images/cloud/rivian-logo.svg"
+    },
+    {
+      "contentType": "",
+      "id": "b2494a9414e207e9",
+      "kind": "stylesheet",
+      "name": "1lfksx_meu96q.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/b2494a9414e207e9.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/1lfksx_meu96q.css"
+    },
+    {
+      "contentType": "",
+      "id": "cd8f1bd05a96c534",
+      "kind": "stylesheet",
+      "name": "3zf_nl70ynzxm.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/cd8f1bd05a96c534.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/3zf_nl70ynzxm.css"
+    },
+    {
+      "contentType": "image/gif",
+      "id": "9003d2bdc39da492",
+      "kind": "image",
+      "name": "ppt=27178;g=sitewide;gid=71752;ord=2206559944726",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/9003d2bdc39da492",
+      "url": "https://trkn.us/pixel/conv/ppt=27178;g=sitewide;gid=71752;ord=2206559944726"
+    },
+    {
+      "contentType": "image/gif",
+      "id": "c126efa9ecfdeee8",
+      "kind": "image",
+      "name": "adsct",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/c126efa9ecfdeee8",
+      "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FDhaka%26en-US%26Google%20Inc.%26MacIntel%26127%261470%26956%2610%2630%261470%26860%260%26na&eci=3&event=%7B%7D&event_id=63970b68-eb57-4367-8d40-c42b37fcbd6c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a555ab4d-ccdd-4a0a-9182-f5ea4c85997c&pt=Devin%20Cloud%20%7C%20Devin&tw_document_href=https%3A%2F%2Fdevin.ai%2Fcloud&tw_iframe_status=0&tw_pid_src=2&tw_session_count=3&tw_session_id=1789451938894-330413985&tw_session_start=1&twpid=tw.1789356887704.272856293232317045&txn_id=q58ll&type=javascript&version=2.4.7"
+    },
+    {
+      "contentType": "image/gif",
+      "id": "c0144d1b32d74a63",
+      "kind": "image",
+      "name": "adsct",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/c0144d1b32d74a63",
+      "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FDhaka%26en-US%26Google%20Inc.%26MacIntel%26127%261470%26956%2610%2630%261470%26860%260%26na&eci=3&event=%7B%7D&event_id=63970b68-eb57-4367-8d40-c42b37fcbd6c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a555ab4d-ccdd-4a0a-9182-f5ea4c85997c&pt=Devin%20Cloud%20%7C%20Devin&tw_document_href=https%3A%2F%2Fdevin.ai%2Fcloud&tw_iframe_status=0&tw_pid_src=2&tw_session_count=3&tw_session_id=1789451938894-330413985&tw_session_start=1&twpid=tw.1789356887704.272856293232317045&txn_id=q58ll&type=javascript&version=2.4.7"
+    },
+    {
+      "contentType": "image/gif",
+      "id": "0181e8de02c2fb14",
+      "kind": "image",
+      "name": "adsct",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/0181e8de02c2fb14",
+      "url": "https://t.co/i/adsct?bci=4&cv=99%261&dv=Asia%2FDhaka%26en-US%26Google%20Inc.%26MacIntel%26127%261470%26956%2610%2630%261470%26860%260%26na&eci=2&event_id=0d251e57-2507-4894-8e16-a542e74e48cf&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a555ab4d-ccdd-4a0a-9182-f5ea4c85997c&pt=Devin%20Cloud%20%7C%20Devin&tw_document_href=https%3A%2F%2Fdevin.ai%2Fcloud&tw_iframe_status=0&tw_pid_src=2&tw_session_count=3&tw_session_id=1789451938894-330413985&twpid=tw.1789356887704.272856293232317045&txn_id=q58ll&type=javascript&version=2.4.7"
+    },
+    {
+      "contentType": "image/gif",
+      "id": "25157024e89e5cac",
+      "kind": "image",
+      "name": "adsct",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/25157024e89e5cac",
+      "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=99%261&dv=Asia%2FDhaka%26en-US%26Google%20Inc.%26MacIntel%26127%261470%26956%2610%2630%261470%26860%260%26na&eci=2&event_id=0d251e57-2507-4894-8e16-a542e74e48cf&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a555ab4d-ccdd-4a0a-9182-f5ea4c85997c&pt=Devin%20Cloud%20%7C%20Devin&tw_document_href=https%3A%2F%2Fdevin.ai%2Fcloud&tw_iframe_status=0&tw_pid_src=2&tw_session_count=3&tw_session_id=1789451938894-330413985&twpid=tw.1789356887704.272856293232317045&txn_id=q58ll&type=javascript&version=2.4.7"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "0db52c5fca516d34",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/0db52c5fca516d34",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Fissue-triage-and-bug-fixing.png&w=750&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a34ad289dc36372f",
+      "kind": "image",
+      "name": "logo-01.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/a34ad289dc36372f.svg",
+      "url": "https://devin.ai/images/acp-logos/logo-01.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f6586e049baa421c",
+      "kind": "image",
+      "name": "logo-02.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/f6586e049baa421c.svg",
+      "url": "https://devin.ai/images/acp-logos/logo-02.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2c76ac3a85fef999",
+      "kind": "image",
+      "name": "logo-03.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/2c76ac3a85fef999.svg",
+      "url": "https://devin.ai/images/acp-logos/logo-03.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d840de58ab277e59",
+      "kind": "image",
+      "name": "logo-04.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/d840de58ab277e59.svg",
+      "url": "https://devin.ai/images/acp-logos/logo-04.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "609f21f94f1cf893",
+      "kind": "image",
+      "name": "icon-mac.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/609f21f94f1cf893.svg",
+      "url": "https://devin.ai/assets/images/download/icon-mac.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ec1e35db913f87cf",
+      "kind": "image",
+      "name": "icon-windows.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/ec1e35db913f87cf.svg",
+      "url": "https://devin.ai/assets/images/download/icon-windows.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b10f8767792af35c",
+      "kind": "image",
+      "name": "icon-linux.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/b10f8767792af35c.svg",
+      "url": "https://devin.ai/assets/images/download/icon-linux.svg"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c2e47ec0df38af4e",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/c2e47ec0df38af4e",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Faskdevin-light.png&w=750&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "64b7fc49102bdc4a",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/64b7fc49102bdc4a",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Ftest-writing.png&w=750&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "32d09768c1587e24",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/32d09768c1587e24",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Fcode-migration-and-refactor.png&w=750&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "5371cd89f8760bc5",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/5371cd89f8760bc5",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Fvulnerability-remediation.png&w=750&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/png",
+      "id": "81a713f315b6cca3",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/81a713f315b6cca3",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Fdevinreview-light1.png&w=750&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/png",
+      "id": "70c85a330e946ccc",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/70c85a330e946ccc",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Fautomations-light1.png&w=750&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/png",
+      "id": "6428c70fc1f6e054",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/6428c70fc1f6e054",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Ffeature-integrations1.png&w=750&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b737570e52b34cfb",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/b737570e52b34cfb",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Fdevin-cloud-light.png&w=1920&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/png",
+      "id": "c2f1f2192e62944e",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/c2f1f2192e62944e",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Fdevin-desktop-light.png&w=1920&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/png",
+      "id": "f04ea299c595961d",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/f04ea299c595961d",
+      "url": "https://devin.ai/_next/image?url=%2Fassets%2Fimages%2Fcloud%2Fdevin-cli.png&w=1920&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "text/css",
+      "id": "540002d679e08e2a",
+      "kind": "stylesheet",
+      "name": "2ok6ntl8qcrai.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/540002d679e08e2a.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/2ok6ntl8qcrai.css"
+    }
+  ],
+  "directoryPath": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749",
+  "failures": [
+    {
+      "contentType": null,
+      "id": "f4ce7e3a33035a77",
+      "name": "collect",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at HX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=7392636&time=1789451938896&li_adsId=df67bc3c-a6b0-459a-a1f7-1461c7cfaf81&url=https%3A%2F%2Fdevin.ai%2Fcloud"
+    },
+    {
+      "contentType": null,
+      "id": "9e85cb0887267887",
+      "name": "17039471659",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at HX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://www.google.com/pagead/1p-user-list/17039471659/?random=1789451939095&cv=11&fst=1789448400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be69e0h2v9218721798z89223035085za200zb9230279743zd9230279743xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1470&u_h=956&url=https%3A%2F%2Fdevin.ai%2Fcloud&rcb=17&frm=0&tiba=Devin%20Cloud%20%7C%20Devin&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=702480842.1789356888&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3K3-0TkzUsEUj7dgaC5OTVRLOgCCIfe1H-A74BhOBnOl7o5Yd_aujukhW6v89ce88Wmz4sAiLkoAdaRvs1_HSYVUwI5aBXb1smcaKejYeAjFpRaV6q24pfUECG2QXStBgKKCwV4uDE1Plazldbrpn25xQCHUQeiwU0gsU_4XjrN_cr2tAYiOxTuktCTTfNh4ZMYrdVVjymnni1w28Mm1oqmDyaJrGUfeUgDd1yy1Ylo0Ehn8tFG1ZBH_QHjtXZ8ISNyvQWzL9hYv4GJP6HZh5G9zDHE3P-3-kJXjWoDV&random=1946141754&rmt_tld=0&ipr=y"
+    },
+    {
+      "contentType": null,
+      "id": "7662c1a1f142c785",
+      "name": "17039471659",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at HX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://www.google.com.bd/pagead/1p-user-list/17039471659/?random=1789451939095&cv=11&fst=1789448400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be69e0h2v9218721798z89223035085za200zb9230279743zd9230279743xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1470&u_h=956&url=https%3A%2F%2Fdevin.ai%2Fcloud&rcb=17&frm=0&tiba=Devin%20Cloud%20%7C%20Devin&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=702480842.1789356888&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3K3-0TkzUsEUj7dgaC5OTVRLOgCCIfe1H-A74BhOBnOl7o5Yd_aujukhW6v89ce88Wmz4sAiLkoAdaRvs1_HSYVUwI5aBXb1smcaKejYeAjFpRaV6q24pfUECG2QXStBgKKCwV4uDE1Plazldbrpn25xQCHUQeiwU0gsU_4XjrN_cr2tAYiOxTuktCTTfNh4ZMYrdVVjymnni1w28Mm1oqmDyaJrGUfeUgDd1yy1Ylo0Ehn8tFG1ZBH_QHjtXZ8ISNyvQWzL9hYv4GJP6HZh5G9zDHE3P-3-kJXjWoDV&random=1946141754&rmt_tld=1&ipr=y"
+    },
+    {
+      "contentType": "text/plain",
+      "id": "63a0e43a8a5ddd34",
+      "name": "tr",
+      "reason": "Asset response type text/plain is not valid for image",
+      "url": "https://www.facebook.com/tr/?id=1228809948990597&ev=PageView&dl=https%3A%2F%2Fdevin.ai%2Fcloud&rl=&if=false&ts=1789451939597&iw=false&sw=1470&sh=956&v=2.9.400&r=stable&ec=0&o=4126&aems=0%3B0&fbp=fb.1.1789451939592.954754145202177950&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Devin%20Cloud%20%7C%20Devin&pmd[locale]=en_US&pmd[description]=Close%20your%20laptop.%20Come%20back%20to%20finished%20PRs.&plt=558.5999999996275&iss=1&imft=1&tz=360&it=1789451938877&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc3&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg3&expv2[27]=mg3&expv2[28]=kl3&expv2[29]=sg3&expv2[30]=mk3&expv2[31]=sn3&expv2[32]=ec3&expv2[33]=mp3&expv2[34]=ps3&expv2[35]=fx3&expv2[36]=vt3&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&rqm=GET"
+    },
+    {
+      "contentType": null,
+      "id": "7d54eadeb101fa76",
+      "name": "rp.gif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at HX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://alb.reddit.com/rp.gif?ts=1789451940258&id=a2_h6pgq02q3ehg&event=gtm.load&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=e296afc6-35ea-4af3-9785-685c0b1bc925&aaid=&external_id=&idfa=&integration=reddit&partner=&partner_version=1.0.0&opt_out=0&sh=1470&sw=956&v=rdt_5377bc99&dpm=&dpcc=&dprc=&esurl=https%3A%2F%2Fdevin.ai%2Fcloud&db=tsc-0.srv_cfg-1.src_pid-1"
+    },
+    {
+      "contentType": null,
+      "id": "abc9c3a025812453",
+      "name": "rp.gif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at HX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://alb.reddit.com/rp.gif?ts=1789451988312&id=a2_h6pgq02q3ehg&event=gtm.scrollDepth&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=e296afc6-35ea-4af3-9785-685c0b1bc925&aaid=&external_id=&idfa=&integration=reddit&partner=&partner_version=1.0.0&opt_out=0&sh=1470&sw=956&v=rdt_5377bc99&dpm=&dpcc=&dprc=&esurl=https%3A%2F%2Fdevin.ai%2Fcloud&db=tsc-0.srv_cfg-1.src_pid-1"
+    },
+    {
+      "contentType": null,
+      "id": "b9d96f32be1194cf",
+      "name": "rp.gif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at HX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://alb.reddit.com/rp.gif?ts=1789451988313&id=a2_h6pgq02q3ehg&event=scroll&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=e296afc6-35ea-4af3-9785-685c0b1bc925&aaid=&external_id=&idfa=&integration=reddit&partner=&partner_version=1.0.0&opt_out=0&sh=1470&sw=956&v=rdt_5377bc99&dpm=&dpcc=&dprc=&esurl=https%3A%2F%2Fdevin.ai%2Fcloud&db=tsc-0.srv_cfg-1.src_pid-1"
+    },
+    {
+      "contentType": null,
+      "id": "814879a893e5ed6e",
+      "name": "rp.gif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at HX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://alb.reddit.com/rp.gif?ts=1789451988324&id=a2_h6pgq02q3ehg&event=scroll&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=e296afc6-35ea-4af3-9785-685c0b1bc925&aaid=&external_id=&idfa=&integration=reddit&partner=&partner_version=1.0.0&opt_out=0&sh=1470&sw=956&v=rdt_5377bc99&dpm=&dpcc=&dprc=&esurl=https%3A%2F%2Fdevin.ai%2Fcloud&db=tsc-0.srv_cfg-1.src_pid-1"
+    },
+    {
+      "contentType": null,
+      "id": "767c2b38b42f3e9f",
+      "name": "rp.gif",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at HX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://alb.reddit.com/rp.gif?ts=1789451988325&id=a2_h6pgq02q3ehg&event=scroll&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=e296afc6-35ea-4af3-9785-685c0b1bc925&aaid=&external_id=&idfa=&integration=reddit&partner=&partner_version=1.0.0&opt_out=0&sh=1470&sw=956&v=rdt_5377bc99&dpm=&dpcc=&dprc=&esurl=https%3A%2F%2Fdevin.ai%2Fcloud&db=tsc-0.srv_cfg-1.src_pid-1"
+    }
+  ],
+  "manifestPath": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/e27b5b29-f548-4816-a52e-1c9fb2f57749/manifest.json",
+  "summary": {
+    "downloadedCount": 37,
+    "elapsedMs": 3554831.361792,
+    "failedCount": 9,
+    "requestedCount": 46
+  }
+}

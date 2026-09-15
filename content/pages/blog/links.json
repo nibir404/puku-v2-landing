@@ -1,0 +1,130 @@
+[
+  {
+    "href": "/",
+    "label": ""
+  },
+  {
+    "href": "/customers",
+    "label": "Customers"
+  },
+  {
+    "href": "/pricing",
+    "label": "Pricing"
+  },
+  {
+    "href": "/demo",
+    "label": "Get a Demo"
+  },
+  {
+    "href": "/download",
+    "label": "Download"
+  },
+  {
+    "href": "https://app.devin.ai/login",
+    "label": "Log in"
+  },
+  {
+    "href": "/blog/governing-ai-agents-at-scale-with-blackrock",
+    "label": "EnterpriseGoverning AI agents at scale with BlackRockWe’re introducing Devin Plugins, which give enterprises a way to manage the context and capabilities their agents use at scale. Plugins bundle skills, rules, MCP servers, hooks, and subagents, with consistent configuration and governance across local and cloud agents.September 9, 20263 min read"
+  },
+  {
+    "href": "/blog",
+    "label": "All"
+  },
+  {
+    "href": "/blog/category/product",
+    "label": "Product"
+  },
+  {
+    "href": "/blog/category/enterprise",
+    "label": "Enterprise"
+  },
+  {
+    "href": "/blog/category/changelist",
+    "label": "Changelist"
+  },
+  {
+    "href": "/blog/category/company",
+    "label": "Company"
+  },
+  {
+    "href": "/blog/category/industry",
+    "label": "Industry"
+  },
+  {
+    "href": "/blog/category/case-studies",
+    "label": "Case Studies"
+  },
+  {
+    "href": "/blog/gpt-6-astra",
+    "label": "ProductGPT-6 Astra is now available in DevinOpenAI released GPT-6 Astra. It is available now in Devin Desktop and Devin CLI, and is part of the model mixture in Devin Cloud. On FrontierCode 1.1 it surpasses Fable 5.1 and is second only to Fable 5, at 64% lower cost.September 3, 20261 min read"
+  },
+  {
+    "href": "/blog/fable-5-1",
+    "label": "ProductFable 5.1 in Devin and Why It’s Cheaper than Opus 5Introducing Fable 5.1 in Devin. Fable-level intelligence is now 54% cheaper – making it even cheaper than Opus – due to a change in caching. Devin’s Fusion harness is now even smarter and cheaper than before, matching Fable 5.1 on FrontierCode at 47% lower cost.August 31, 20264 min read"
+  },
+  {
+    "href": "/blog/rebuilding-devins-chat-renderer",
+    "label": "EngineeringHow Devin rebuilt its rendererThe largest Devin sessions took 20+ seconds to load and crawled afterwards. We built a new chat renderer — skeleton outlines, island loading, and scroll anchoring — so even sessions with hundreds of thousands of events load fast and scroll smoothly.August 25, 20267 min read"
+  },
+  {
+    "href": "/blog/gpt-5-6-sol-price-drop",
+    "label": "ProductGPT-5.6 Sol: Now even cheaper in DevinOpenAI is lowering GPT-5.6 Sol list prices to $4/$20 per 1M tokens, and the 70% discount we announced still applies on top through October 3, 2026.August 21, 20261 min read"
+  },
+  {
+    "href": "/blog/devins-slack-etiquette",
+    "label": "ProductDevin's Slack EtiquetteHow we refined Devin's behavior in Slack over the past year, across prompts, Devin's harness, and our usage of the Slack API.August 20, 20266 min read"
+  },
+  {
+    "href": "/blog/gpt-5-6-sol-promo",
+    "label": "ProductGPT-5.6 Sol: 70% off in DevinGPT-5.6 Sol is available at a 70% discount on Devin Desktop and Devin CLI through October 3, 2026.August 18, 20261 min read"
+  },
+  {
+    "href": "/blog/gemini-37-flash",
+    "label": "ProductGemini 3.7 Flash is now available in DevinGemini 3.7 Flash is now live in Devin Desktop and Devin CLI, reaching Claude Sonnet 5-level performance at less than half the cost. Available at a 50% discount for two weeks.August 13, 20261 min read"
+  },
+  {
+    "href": "/blog/grok-4-6",
+    "label": "ProductGrok 4.6 is now available in DevinGrok 4.6 is now live in Devin Desktop and the Devin CLI, marking a significant improvement over Grok 4.5 on FrontierCode 1.1.August 12, 20261 min read"
+  },
+  {
+    "href": "/blog/introducing-pr-stacks",
+    "label": "ProductIntroducing Stacked PRs in DevinDevin now breaks large tasks into stacks of small, independently reviewable PRs — handling rebasing, conflict resolution, and CI verification for you.July 30, 20266 min read"
+  },
+  {
+    "href": "/blog/kimi-k3",
+    "label": "ProductKimi K3 is now available in DevinKimi K3 is now live in Devin Desktop and Devin CLI. Optimized for long horizon agentic coding, it approaches frontier-level FrontierCode 1.1 performance.July 27, 20261 min read"
+  },
+  {
+    "href": "/blog/claude-opus-5",
+    "label": "ProductClaude Opus 5 is now available in DevinClaude Opus 5 is now live in Devin Desktop, Devin CLI, and Devin Cloud's mode mix, approaching Fable-level performance at half the cost.July 23, 20261 min read"
+  },
+  {
+    "href": "/blog/introducing-devin-outposts",
+    "label": "ProductIntroducing Devin OutpostsGive Devin the ability to run on any machine.July 21, 20265 min read"
+  },
+  {
+    "href": "/blog/page/2",
+    "label": "Show more posts"
+  },
+  {
+    "href": "https://cognition.com/pages/privacy-policy",
+    "label": "Privacy Policy"
+  },
+  {
+    "href": "https://cognition.com/pages/terms-of-service",
+    "label": "Terms of Service"
+  },
+  {
+    "href": "/privacy-choices",
+    "label": "Your Privacy Choices"
+  },
+  {
+    "href": "https://www.linkedin.com/company/cognition-ai-labs/",
+    "label": "LinkedIn"
+  },
+  {
+    "href": "https://x.com/cognition",
+    "label": "X (Twitter)"
+  }
+]

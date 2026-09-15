@@ -1,0 +1,205 @@
+{
+  "assets": [
+    {
+      "contentType": "font/woff2",
+      "id": "0884f46c5660966b",
+      "kind": "font",
+      "name": "GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/0884f46c5660966b.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "9482f78c14552ae9",
+      "kind": "font",
+      "name": "IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/9482f78c14552ae9.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "5a78838a700761fc",
+      "kind": "font",
+      "name": "Inter_latin.p.45535valc9rzk.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/5a78838a700761fc.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/Inter_latin.p.45535valc9rzk.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "addf6bd7e2725110",
+      "kind": "font",
+      "name": "STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/addf6bd7e2725110.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "46afca314d0fd278",
+      "kind": "font",
+      "name": "NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/46afca314d0fd278.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "dcc96c913fae88e3",
+      "kind": "font",
+      "name": "NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/dcc96c913fae88e3.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2"
+    },
+    {
+      "contentType": "text/css",
+      "id": "cd8f1bd05a96c534",
+      "kind": "stylesheet",
+      "name": "3zf_nl70ynzxm.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/cd8f1bd05a96c534.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/3zf_nl70ynzxm.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "b2494a9414e207e9",
+      "kind": "stylesheet",
+      "name": "1lfksx_meu96q.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/b2494a9414e207e9.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/1lfksx_meu96q.css"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "699964e8e2ee7a89",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/699964e8e2ee7a89",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fgpt-5-6%2Fcover.png&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "6d5ac58d2bcde5f2",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/6d5ac58d2bcde5f2",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fsecurity-swarm-eval%2Fsecurity-blog-illustration.jpg&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c4dfb634928f515a",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/c4dfb634928f515a",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fclaude-fable-5-available-in-devin%2Fcover.png&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "dea94bd77f6de905",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/dea94bd77f6de905",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fsecurity-in-devin-review%2Fcover.webp&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "42d39b74db7df02a",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/42d39b74db7df02a",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fkimi-k2.7-glm-5.2-devin-desktop%2Fcover.png&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "247af509879bde5f",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/247af509879bde5f",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fclaude-sonnet-5%2Fcover.png&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f807d995324e0c21",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/f807d995324e0c21",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fagentic-map-reduce%2Fmapreduce-illustration.jpg&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b9390b7dd9918374",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/b9390b7dd9918374",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fimages%2Fblog%2Fopus-4.7-fast%2Fopus-4.7-fast-blog-card.png&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c01448dcac80459a",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/c01448dcac80459a",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fimages%2Fblog%2Fwindsurf-adaptive%2Fadaptive-square.png&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "d0bf86b921369857",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/d0bf86b921369857",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fimages%2Fblog%2Fdevin-review-windsurf%2Fdevin-windsurf-square.png&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "32a07181d233f736",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/32a07181d233f736",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fimages%2Fblog%2Fwindsurf-2-0%2Fwindsurf-2-0-square.png&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1f3f837642a903d9",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/1f3f837642a903d9",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fdevin-desktop%2Fcover.jpg&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "609f21f94f1cf893",
+      "kind": "image",
+      "name": "icon-mac.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/609f21f94f1cf893.svg",
+      "url": "https://devin.ai/assets/images/download/icon-mac.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ec1e35db913f87cf",
+      "kind": "image",
+      "name": "icon-windows.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/ec1e35db913f87cf.svg",
+      "url": "https://devin.ai/assets/images/download/icon-windows.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b10f8767792af35c",
+      "kind": "image",
+      "name": "icon-linux.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/b10f8767792af35c.svg",
+      "url": "https://devin.ai/assets/images/download/icon-linux.svg"
+    },
+    {
+      "contentType": "text/css",
+      "id": "fe4918870bbfb617",
+      "kind": "stylesheet",
+      "name": "1eg7h62pf64t5.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/fe4918870bbfb617.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/1eg7h62pf64t5.css"
+    }
+  ],
+  "directoryPath": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0",
+  "failures": [],
+  "manifestPath": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/fb36f123-1849-416c-95b5-fc863a65bca0/manifest.json",
+  "summary": {
+    "downloadedCount": 24,
+    "elapsedMs": 123.3426669985056,
+    "failedCount": 0,
+    "requestedCount": 24
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "assets": [
+    {
+      "contentType": "font/woff2",
+      "id": "0884f46c5660966b",
+      "kind": "font",
+      "name": "GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/0884f46c5660966b.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "46afca314d0fd278",
+      "kind": "font",
+      "name": "NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/46afca314d0fd278.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "5a78838a700761fc",
+      "kind": "font",
+      "name": "Inter_latin.p.45535valc9rzk.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/5a78838a700761fc.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/Inter_latin.p.45535valc9rzk.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "9482f78c14552ae9",
+      "kind": "font",
+      "name": "IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/9482f78c14552ae9.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "dcc96c913fae88e3",
+      "kind": "font",
+      "name": "NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/dcc96c913fae88e3.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "addf6bd7e2725110",
+      "kind": "font",
+      "name": "STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/addf6bd7e2725110.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2"
+    },
+    {
+      "contentType": "text/css",
+      "id": "cd8f1bd05a96c534",
+      "kind": "stylesheet",
+      "name": "3zf_nl70ynzxm.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/cd8f1bd05a96c534.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/3zf_nl70ynzxm.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "b2494a9414e207e9",
+      "kind": "stylesheet",
+      "name": "1lfksx_meu96q.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/b2494a9414e207e9.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/1lfksx_meu96q.css"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "cb90615103cb4ac1",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/cb90615103cb4ac1",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2Fjul24_newsletter_card.png&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c0231781dfa279c3",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/c0231781dfa279c3",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fimages%2Fblog%2Fmay-2025-newsletter%2Fblog_card_thumbnail.jpg&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "bc30cd9d0b76d847",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/bc30cd9d0b76d847",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2Fjan-changelist-25.png&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "194d096095e56ccd",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/194d096095e56ccd",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2Fnov-changelist-24.png&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "4650d5b052cc3240",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/4650d5b052cc3240",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2FSep24_newsletter_card.jpg&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "118cd876dfb64cd2",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/118cd876dfb64cd2",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2FAug24_newsletter_card.jpg&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ecb5956272314f15",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/ecb5956272314f15",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2Fapr25_newsletter_card.jpg&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "dfa71d9ae00a68e7",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/dfa71d9ae00a68e7",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2Fdec-changelist-24.png&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "8f976fcf124b8fa3",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/8f976fcf124b8fa3",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2Fjune25_newsletter_card_square.jpg&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ded8512b71724ac9",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/ded8512b71724ac9",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2Fmarch25_newsletter_card.jpg&w=640&q=75"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7f88cd51ddaee632",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/7f88cd51ddaee632",
+      "url": "https://devin.ai/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2Ffeb-changelist-25.png&w=640&q=75"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "609f21f94f1cf893",
+      "kind": "image",
+      "name": "icon-mac.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/609f21f94f1cf893.svg",
+      "url": "https://devin.ai/assets/images/download/icon-mac.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b10f8767792af35c",
+      "kind": "image",
+      "name": "icon-linux.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/b10f8767792af35c.svg",
+      "url": "https://devin.ai/assets/images/download/icon-linux.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ec1e35db913f87cf",
+      "kind": "image",
+      "name": "icon-windows.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/ec1e35db913f87cf.svg",
+      "url": "https://devin.ai/assets/images/download/icon-windows.svg"
+    }
+  ],
+  "directoryPath": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4",
+  "failures": [],
+  "manifestPath": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/247cbcae-b589-42c7-847f-e10d500455f4/manifest.json",
+  "summary": {
+    "downloadedCount": 22,
+    "elapsedMs": 46.76708300039172,
+    "failedCount": 0,
+    "requestedCount": 22
+  }
+}

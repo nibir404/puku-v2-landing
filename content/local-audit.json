@@ -1,0 +1,130 @@
+{
+  "routes": 216,
+  "brokenLinks": [],
+  "unresolvedLocalImages": [
+    {
+      "page": "blog/claude-fable-5-available-in-devin",
+      "src": "/images/blog/claude-fable-5-available-in-devin/frontiercode-score.png"
+    },
+    {
+      "page": "blog/claude-fable-5-available-in-devin",
+      "src": "/images/blog/claude-fable-5-available-in-devin/frontiercode-token-efficiency.png"
+    },
+    {
+      "page": "blog/introducing-devin-outposts",
+      "src": "/images/blog/introducing-devin-outposts/logos/namespace.svg"
+    },
+    {
+      "page": "blog/introducing-devin-outposts",
+      "src": "/images/blog/introducing-devin-outposts/logos/cloudflare.svg"
+    },
+    {
+      "page": "blog/introducing-devin-outposts",
+      "src": "/images/blog/introducing-devin-outposts/logos/modal.svg"
+    },
+    {
+      "page": "blog/introducing-devin-outposts",
+      "src": "/images/blog/introducing-devin-outposts/logos/nvidia.svg"
+    },
+    {
+      "page": "blog/introducing-devin-outposts",
+      "src": "/images/blog/introducing-devin-outposts/logos/daytona.svg"
+    },
+    {
+      "page": "blog/introducing-devin-outposts",
+      "src": "/images/blog/introducing-devin-outposts/logos/e2b.svg"
+    },
+    {
+      "page": "blog/page/12",
+      "src": "/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fhero%2Fhero_atlassian_codeium.png&w=3840&q=75"
+    },
+    {
+      "page": "blog/page/5",
+      "src": "/_next/image?url=https%3A%2F%2Fexafunction.github.io%2Fpublic%2Fimages%2Fblog%2Fwave-10-part-3%2Fblog_card_thumbnail.jpg10-misc.jpg&w=3840&q=75"
+    },
+    {
+      "page": "blog/rebuilding-devins-chat-renderer",
+      "src": "/images/blog/rebuilding-devins-chat-renderer/virtualization-debugger.png"
+    },
+    {
+      "page": "blog/security-in-devin-review",
+      "src": "/images/blog/security-in-devin-review/review-ui.png"
+    },
+    {
+      "page": "blog/security-in-devin-review",
+      "src": "/images/blog/security-in-devin-review/finding-detail.png"
+    },
+    {
+      "page": "blog/windsurf-is-now-devin-desktop",
+      "src": "/images/blog/devin-desktop/ide-showcase.png"
+    },
+    {
+      "page": "customers/bilt",
+      "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcover.12ftdf-t2hs07.webp&w=3840&q=75"
+    },
+    {
+      "page": "customers/bilt",
+      "src": "/assets/images/case-studies/bilt/img2.webp"
+    },
+    {
+      "page": "customers/evinova",
+      "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcover.25pbs9kwoy5bd.webp&w=3840&q=75"
+    },
+    {
+      "page": "customers/fefundinfo",
+      "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcover.21z4iqd_i1tcv.webp&w=3840&q=75"
+    },
+    {
+      "page": "customers/gumroad",
+      "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcover.12k5866475h3a.webp&w=3840&q=75"
+    },
+    {
+      "page": "customers/gumroad",
+      "src": "/assets/images/case-studies/gumroad/img1.webp"
+    },
+    {
+      "page": "customers/itau",
+      "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcover.2ezktmc01xt25.webp&w=3840&q=75"
+    },
+    {
+      "page": "customers/linktree",
+      "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcover.0h170j0jobya5.webp&w=3840&q=75"
+    },
+    {
+      "page": "customers/linktree",
+      "src": "/assets/images/case-studies/linktree/img3.webp"
+    },
+    {
+      "page": "customers/linktree",
+      "src": "/assets/images/case-studies/linktree/img4.webp"
+    },
+    {
+      "page": "customers/linktree",
+      "src": "/assets/images/case-studies/linktree/img1.webp"
+    },
+    {
+      "page": "customers/linktree",
+      "src": "/assets/images/case-studies/linktree/img2.webp"
+    },
+    {
+      "page": "customers/ramp",
+      "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcover.0t80ry4dmkye0.webp&w=3840&q=75"
+    },
+    {
+      "page": "customers/rvtech",
+      "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcover.3z6tht4ugsn48.webp&w=3840&q=75"
+    },
+    {
+      "page": "enterprise",
+      "src": "/_next/image?url=%2Fassets%2Fimages%2Fenterprise-slide-mobile02.png&w=3840&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "page": "enterprise",
+      "src": "/_next/image?url=%2Fassets%2Fimages%2Fenterprise-slide-mobile03.png&w=3840&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "page": "enterprise",
+      "src": "/_next/image?url=%2Fassets%2Fimages%2Fenterprise-slide05.png&w=3840&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "href": "/",
+    "label": ""
+  },
+  {
+    "href": "/customers",
+    "label": "Customers"
+  },
+  {
+    "href": "/pricing",
+    "label": "Pricing"
+  },
+  {
+    "href": "/demo",
+    "label": "Get a Demo"
+  },
+  {
+    "href": "https://app.devin.ai/login",
+    "label": "Log in"
+  },
+  {
+    "href": "/download",
+    "label": "Download"
+  },
+  {
+    "href": "/download/confirmation?code=ma",
+    "label": "Download for Apple Silicon"
+  },
+  {
+    "href": "/download/confirmation?code=mi",
+    "label": "Download for Intel"
+  },
+  {
+    "href": "#all-downloads",
+    "label": "See all download options ↓"
+  },
+  {
+    "href": "https://docs.windsurf.com/plugins/getting-started#jetbrains",
+    "label": "Download JetBrains Plugin"
+  },
+  {
+    "href": "/jetbrains",
+    "label": "Explore"
+  },
+  {
+    "href": "https://cli.devin.ai/docs",
+    "label": "Read Docs"
+  },
+  {
+    "href": "/download/confirmation?code=ma",
+    "label": "Download for Apple Silicon"
+  },
+  {
+    "href": "/download/confirmation?code=mi",
+    "label": "Download for Intel"
+  },
+  {
+    "href": "/download/confirmation?code=wu",
+    "label": "Download for x64"
+  },
+  {
+    "href": "/download/confirmation?code=wa",
+    "label": "Download for arm64"
+  },
+  {
+    "href": "/download/confirmation?code=li",
+    "label": "Download"
+  },
+  {
+    "href": "https://docs.devin.ai/desktop/getting-started",
+    "label": "Install with apt or rpm →"
+  },
+  {
+    "href": "https://docs.devin.ai/desktop/releases",
+    "label": "View all releases →"
+  },
+  {
+    "href": "/download/confirmation?code=ma&next=true",
+    "label": "Download for Apple Silicon"
+  },
+  {
+    "href": "/download/confirmation?code=mi&next=true",
+    "label": "Download for Intel"
+  },
+  {
+    "href": "/download/confirmation?code=wu&next=true",
+    "label": "Download for x64"
+  },
+  {
+    "href": "/download/confirmation?code=wa&next=true",
+    "label": "Download for arm64"
+  },
+  {
+    "href": "/download/confirmation?code=li&next=true",
+    "label": "Download"
+  },
+  {
+    "href": "https://docs.devin.ai/desktop/getting-started",
+    "label": "Install with apt or rpm →"
+  },
+  {
+    "href": "/blog/windsurf-is-now-devin-desktop",
+    "label": "Read the announcement →"
+  },
+  {
+    "href": "/download",
+    "label": "download page"
+  },
+  {
+    "href": "https://docs.devin.ai/desktop/devin-desktop-faq",
+    "label": "Learn more in the docs →"
+  },
+  {
+    "href": "https://docs.devin.ai/desktop/devin-desktop-faq",
+    "label": "Learn more in the docs →"
+  },
+  {
+    "href": "/jetbrains",
+    "label": "Get Windsurf for JetBrains →"
+  },
+  {
+    "href": "https://cognition.com/pages/privacy-policy",
+    "label": "Privacy Policy"
+  },
+  {
+    "href": "https://cognition.com/pages/terms-of-service",
+    "label": "Terms of Service"
+  },
+  {
+    "href": "/privacy-choices",
+    "label": "Your Privacy Choices"
+  },
+  {
+    "href": "https://www.linkedin.com/company/cognition-ai-labs/",
+    "label": "LinkedIn"
+  },
+  {
+    "href": "https://x.com/cognition",
+    "label": "X (Twitter)"
+  }
+]

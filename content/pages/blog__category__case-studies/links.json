@@ -1,0 +1,106 @@
+[
+  {
+    "href": "/",
+    "label": ""
+  },
+  {
+    "href": "/customers",
+    "label": "Customers"
+  },
+  {
+    "href": "/pricing",
+    "label": "Pricing"
+  },
+  {
+    "href": "/demo",
+    "label": "Get a Demo"
+  },
+  {
+    "href": "/download",
+    "label": "Download"
+  },
+  {
+    "href": "https://app.devin.ai/login",
+    "label": "Log in"
+  },
+  {
+    "href": "/blog",
+    "label": "All"
+  },
+  {
+    "href": "/blog/category/product",
+    "label": "Product"
+  },
+  {
+    "href": "/blog/category/enterprise",
+    "label": "Enterprise"
+  },
+  {
+    "href": "/blog/category/changelist",
+    "label": "Changelist"
+  },
+  {
+    "href": "/blog/category/company",
+    "label": "Company"
+  },
+  {
+    "href": "/blog/category/industry",
+    "label": "Industry"
+  },
+  {
+    "href": "/blog/category/case-studies",
+    "label": "Case Studies"
+  },
+  {
+    "href": "/blog/athena-health-case-study",
+    "label": "Case Studiesathenahealth Advances Healthcare Innovation with Windsurfathenahealth uses Windsurf to accelerate their developers.June 10, 20252 min read"
+  },
+  {
+    "href": "/blog/mercado-libre-case-study",
+    "label": "Case StudiesWindsurf Fuels Mercado Libre’s Growth StrategyMercado Libre uses Windsurf to accelerate their developers.May 27, 20251 min read"
+  },
+  {
+    "href": "/blog/drw-case-study",
+    "label": "Case StudiesDRW on CodeiumDRW uses Codeium to boost developer productivity while safeguarding intellectual property.January 6, 20253 min read"
+  },
+  {
+    "href": "/blog/jpmc-codeium-hall-of-innovation",
+    "label": "Case StudiesCodeium: JPMorgan Chase's Hall of InnovationCodeium inducted into JPMorgan Chase Hall of Innovation for AI-powered development solutions.October 31, 20241 min read"
+  },
+  {
+    "href": "/blog/zillow-codeium-case-study",
+    "label": "Case StudiesZillow on CodeiumZillow uses Codeium to accelerate their developers.July 17, 20243 min read"
+  },
+  {
+    "href": "/blog/wwt-case-study",
+    "label": "Case StudiesWorld Wide Technology on CodeiumWWT uses Codeium to accelerate their developers.April 30, 20241 min read"
+  },
+  {
+    "href": "/blog/clearwater-analytics-case-study",
+    "label": "Case StudiesClearwater Analytics on CodeiumClearwater Analytics uses Codeium to accelerate their developers.January 25, 20242 min read"
+  },
+  {
+    "href": "/blog/anduril-case-study",
+    "label": "Case StudiesAnduril on WindsurfAnduril uses Windsurf to accelerate their developers.November 28, 20233 min read"
+  },
+  {
+    "href": "https://cognition.com/pages/privacy-policy?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "Privacy Policy"
+  },
+  {
+    "href": "https://cognition.com/pages/terms-of-service?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "Terms of Service"
+  },
+  {
+    "href": "/privacy-choices",
+    "label": "Your Privacy Choices"
+  },
+  {
+    "href": "https://www.linkedin.com/company/cognition-ai-labs/",
+    "label": "LinkedIn"
+  },
+  {
+    "href": "https://x.com/cognition",
+    "label": "X (Twitter)"
+  }
+]

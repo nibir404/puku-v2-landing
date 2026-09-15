@@ -1,0 +1,117 @@
+{
+  "assets": [
+    {
+      "contentType": "font/woff2",
+      "id": "0884f46c5660966b",
+      "kind": "font",
+      "name": "GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/0884f46c5660966b.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "9482f78c14552ae9",
+      "kind": "font",
+      "name": "IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/9482f78c14552ae9.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "46afca314d0fd278",
+      "kind": "font",
+      "name": "NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/46afca314d0fd278.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "5a78838a700761fc",
+      "kind": "font",
+      "name": "Inter_latin.p.45535valc9rzk.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/5a78838a700761fc.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/Inter_latin.p.45535valc9rzk.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "dcc96c913fae88e3",
+      "kind": "font",
+      "name": "NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/dcc96c913fae88e3.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "addf6bd7e2725110",
+      "kind": "font",
+      "name": "STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/addf6bd7e2725110.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2"
+    },
+    {
+      "contentType": "text/css",
+      "id": "cd8f1bd05a96c534",
+      "kind": "stylesheet",
+      "name": "3zf_nl70ynzxm.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/cd8f1bd05a96c534.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/3zf_nl70ynzxm.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "b2494a9414e207e9",
+      "kind": "stylesheet",
+      "name": "1lfksx_meu96q.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/b2494a9414e207e9.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/1lfksx_meu96q.css"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "28373f2be74d1a83",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/28373f2be74d1a83",
+      "url": "https://devin.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcover.2h63_3czfilmo.webp&w=1080&q=75"
+    },
+    {
+      "contentType": "text/css",
+      "id": "540002d679e08e2a",
+      "kind": "stylesheet",
+      "name": "2ok6ntl8qcrai.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/540002d679e08e2a.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/2ok6ntl8qcrai.css"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "609f21f94f1cf893",
+      "kind": "image",
+      "name": "icon-mac.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/609f21f94f1cf893.svg",
+      "url": "https://devin.ai/assets/images/download/icon-mac.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b10f8767792af35c",
+      "kind": "image",
+      "name": "icon-linux.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/b10f8767792af35c.svg",
+      "url": "https://devin.ai/assets/images/download/icon-linux.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ec1e35db913f87cf",
+      "kind": "image",
+      "name": "icon-windows.svg",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/ec1e35db913f87cf.svg",
+      "url": "https://devin.ai/assets/images/download/icon-windows.svg"
+    }
+  ],
+  "directoryPath": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7",
+  "failures": [],
+  "manifestPath": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/9119ad70-2688-4754-8be8-224435bac7a7/manifest.json",
+  "summary": {
+    "downloadedCount": 13,
+    "elapsedMs": 41.622500002384186,
+    "failedCount": 0,
+    "requestedCount": 13
+  }
+}

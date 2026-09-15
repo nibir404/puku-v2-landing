@@ -1,0 +1,3 @@
+import Header from '../../../components/Header';
+export const metadata={title:'Download PUKU'};
+export default async function Download({searchParams}:{searchParams:Promise<{code?:string}>}){const{code}=await searchParams;const platform=({ma:'Mac — Apple Silicon',mi:'Mac — Intel',wu:'Windows — x64',wa:'Windows — ARM64',li:'Linux'})[code||'ma']||'your device';return <><Header/><main id="main-content" className="download-confirmation"><img src="/puku-logo.png" alt="PUKU" width="64"/><h1>PUKU for {platform}</h1><p>Your platform is selected. A PUKU installer has not been attached to this website yet.</p><a href="/download" className="puku-action">Choose another platform</a><a href="/cli" className="account-back">Explore PUKU CLI →</a></main></>}

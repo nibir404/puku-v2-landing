@@ -1,0 +1,125 @@
+{
+  "assets": [
+    {
+      "contentType": "font/woff2",
+      "id": "0884f46c5660966b",
+      "kind": "font",
+      "name": "GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/0884f46c5660966b.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/GeistMono_Regular-s.p.2tw7uc71e2v7r.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "dcc96c913fae88e3",
+      "kind": "font",
+      "name": "NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/dcc96c913fae88e3.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Light-s.p.2ha41b_ddzi59.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "9482f78c14552ae9",
+      "kind": "font",
+      "name": "IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/9482f78c14552ae9.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/IBMPlexMono_Regular-s.p.3qa7m85-bneiw.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "5a78838a700761fc",
+      "kind": "font",
+      "name": "Inter_latin.p.45535valc9rzk.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/5a78838a700761fc.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/Inter_latin.p.45535valc9rzk.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "46afca314d0fd278",
+      "kind": "font",
+      "name": "NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/46afca314d0fd278.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/NBInternationalPro_Regular-s.p.1zobv4yb0l45-.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "addf6bd7e2725110",
+      "kind": "font",
+      "name": "STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/addf6bd7e2725110.woff2",
+      "url": "https://devin.ai/_next/static/immutable/media/STKBureauSerif_Book-s.p.3jrfzh95ybjbw.woff2"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "67588d08bc1ee898",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/67588d08bc1ee898",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fgoverning-ai-agents-at-scale-with-blackrock%2Fcover.jpg&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "text/css",
+      "id": "cd8f1bd05a96c534",
+      "kind": "stylesheet",
+      "name": "3zf_nl70ynzxm.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/cd8f1bd05a96c534.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/3zf_nl70ynzxm.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "b2494a9414e207e9",
+      "kind": "stylesheet",
+      "name": "1lfksx_meu96q.css",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/b2494a9414e207e9.css",
+      "url": "https://devin.ai/_next/static/immutable/chunks/1lfksx_meu96q.css"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ebc5c7b70418abb1",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/ebc5c7b70418abb1",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fgpt-6-astra%2Fcover.png&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c8d527cc2a73cbfd",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/c8d527cc2a73cbfd",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Ffable-5-1%2Fcover.png&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c23ff6e96f35b988",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/c23ff6e96f35b988",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fdevins-slack-etiquette%2Fat-devin-texture-1.jpg&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "cd72019f0c4e2d06",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/cd72019f0c4e2d06",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Fgpt-5-6-sol-price-drop%2Fcover.png&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "5548975a2aab0b1c",
+      "kind": "image",
+      "name": "image",
+      "path": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/5548975a2aab0b1c",
+      "url": "https://devin.ai/_next/image?url=%2Fimages%2Fblog%2Frebuilding-devins-chat-renderer%2Fcover.png&w=640&q=75&dpl=dpl_H3z9MGA5tYWLBq3Se1onYkUAfdMj"
+    }
+  ],
+  "directoryPath": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3",
+  "failures": [],
+  "manifestPath": "/var/folders/3y/zk9dgpkd2nxcmmhrz1dktxnc0000gn/T/browser-use/assets/6b886e44-ec90-4166-af34-de3d65c39dc3/manifest.json",
+  "summary": {
+    "downloadedCount": 14,
+    "elapsedMs": 103.56345799937844,
+    "failedCount": 0,
+    "requestedCount": 14
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "href": "/",
+    "label": ""
+  },
+  {
+    "href": "/customers",
+    "label": "Customers"
+  },
+  {
+    "href": "/pricing",
+    "label": "Pricing"
+  },
+  {
+    "href": "/demo",
+    "label": "Get a Demo"
+  },
+  {
+    "href": "/download",
+    "label": "Download"
+  },
+  {
+    "href": "https://app.devin.ai/login",
+    "label": "Log in"
+  },
+  {
+    "href": "/blog",
+    "label": ""
+  },
+  {
+    "href": "https://app.devin.ai/settings/environment?tab=outposts",
+    "label": "Devin Cloud"
+  },
+  {
+    "href": "https://devin.ai/cli",
+    "label": "Devin CLI"
+  },
+  {
+    "href": "https://github.com/CognitionAI/devin-outpost-k8s",
+    "label": "devin-outpost-k8s"
+  },
+  {
+    "href": "https://modal.com/docs/devin",
+    "label": "Modal"
+  },
+  {
+    "href": "https://developers.cloudflare.com/sandbox/tutorials/devin-outposts/",
+    "label": "Cloudflare"
+  },
+  {
+    "href": "https://www.daytona.io/docs/en/guides/devin/devin-outposts/",
+    "label": "Daytona"
+  },
+  {
+    "href": "https://brev.nvidia.com/launchable/deploy?launchableID=env-3Ge1ZXazlZQuJHfQed2od9IT8R5",
+    "label": "NVIDIA Brev"
+  },
+  {
+    "href": "https://github.com/NVIDIA/OpenShell#supported-agents",
+    "label": "NVIDIA OpenShell"
+  },
+  {
+    "href": "https://namespace.so/docs/devbox/devin",
+    "label": "Namespace"
+  },
+  {
+    "href": "https://e2b.dev/docs/agents/devin",
+    "label": "E2B"
+  },
+  {
+    "href": "https://cognition.com/blog/what-we-learned-building-cloud-agents?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "What We Learned Building Cloud Agents"
+  },
+  {
+    "href": "https://docs.devin.ai/cloud/outposts/overview",
+    "label": "docs"
+  },
+  {
+    "href": "https://cognition.com/pages/privacy-policy?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "Privacy Policy"
+  },
+  {
+    "href": "https://cognition.com/pages/terms-of-service?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "Terms of Service"
+  },
+  {
+    "href": "/privacy-choices",
+    "label": "Your Privacy Choices"
+  },
+  {
+    "href": "https://www.linkedin.com/company/cognition-ai-labs/",
+    "label": "LinkedIn"
+  },
+  {
+    "href": "https://x.com/cognition",
+    "label": "X (Twitter)"
+  }
+]

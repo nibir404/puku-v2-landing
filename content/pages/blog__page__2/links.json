@@ -1,0 +1,146 @@
+[
+  {
+    "href": "/",
+    "label": ""
+  },
+  {
+    "href": "/customers",
+    "label": "Customers"
+  },
+  {
+    "href": "/pricing",
+    "label": "Pricing"
+  },
+  {
+    "href": "/demo",
+    "label": "Get a Demo"
+  },
+  {
+    "href": "/download",
+    "label": "Download"
+  },
+  {
+    "href": "https://app.devin.ai/login",
+    "label": "Log in"
+  },
+  {
+    "href": "/blog",
+    "label": "All"
+  },
+  {
+    "href": "/blog/category/product",
+    "label": "Product"
+  },
+  {
+    "href": "/blog/category/enterprise",
+    "label": "Enterprise"
+  },
+  {
+    "href": "/blog/category/changelist",
+    "label": "Changelist"
+  },
+  {
+    "href": "/blog/category/company",
+    "label": "Company"
+  },
+  {
+    "href": "/blog/category/industry",
+    "label": "Industry"
+  },
+  {
+    "href": "/blog/category/case-studies",
+    "label": "Case Studies"
+  },
+  {
+    "href": "/blog/gpt-5-6",
+    "label": "ProductGPT-5.6 models are now available in DevinGPT-5.6 models are now live in Devin. These models stand out for combining top-tier coding-agent performance with very strong token/cost efficiency.July 9, 20261 min read"
+  },
+  {
+    "href": "/blog/claude-fable-5-available-in-devin",
+    "label": "ProductUpdate on Claude Fable 5 in DevinClaude Fable 5 is now available in Devin Cloud’s Ultra agent, Devin Desktop, and Devin CLI.July 1, 20261 min read"
+  },
+  {
+    "href": "/blog/agentic-map-reduce",
+    "label": "ProductAgentic MapReduceA new architecture from Cognition for scaling full-codebase reasoning with distributed agentsJuly 1, 20269 min read"
+  },
+  {
+    "href": "/blog/security-swarm-eval",
+    "label": "ProductEvaluating Security SwarmHow we built an eval of real, recent vulnerabilities to measure Security Swarm — and why it finds more bugs at lower cost than any tool we tested.July 1, 20268 min read"
+  },
+  {
+    "href": "/blog/claude-sonnet-5",
+    "label": "ProductClaude Sonnet 5 is now available in DevinClaude Sonnet 5 is now live in Devin Desktop and Devin CLI, pairing frontier-level coding performance with a more affordable price point.June 30, 20261 min read"
+  },
+  {
+    "href": "/blog/kimi-k27-glm-52-devin-desktop",
+    "label": "ProductKimi K2.7 and GLM 5.2 Now Available in Devin Desktop and CLIKimi K2.7 and GLM 5.2 are now available in Devin Desktop and CLI, with strong FrontierCode Extended scores and no quota use until July 5.June 24, 20261 min read"
+  },
+  {
+    "href": "/blog/security-in-devin-review",
+    "label": "ProductIntroducing Security in Devin ReviewEvery pull request in Devin Review now gets a security review. Devin catches auth bypasses and logic flaws that pattern-matching scanners miss.June 18, 20263 min read"
+  },
+  {
+    "href": "/blog/windsurf-is-now-devin-desktop",
+    "label": "ProductWindsurf is now Devin DesktopThe next generation of Windsurf: a full IDE with the Agent Command Center built in for managing fleets of local and cloud agents from one surface.June 2, 20264 min read"
+  },
+  {
+    "href": "/blog/opus-47-fast",
+    "label": "ProductOpus 4.7 (fast mode) is now available in WindsurfClaude Opus 4.7 (fast mode) is now available in Windsurf with the full intelligence of Opus 4.7 and ~2.5x higher output speeds.May 12, 20261 min read"
+  },
+  {
+    "href": "/blog/devin-review-windsurf",
+    "label": "ProductFast and Comprehensive Code Review, Now in WindsurfDevin Review and Quick Review bring verification into the same workspace where you write code.May 6, 20263 min read"
+  },
+  {
+    "href": "/blog/windsurf-2-0",
+    "label": "ProductWindsurf 2.0: Introducing the Agent Command Center and Devin in WindsurfShip more with local and cloud agents working together.April 15, 20263 min read"
+  },
+  {
+    "href": "/blog/windsurf-adaptive",
+    "label": "ProductIntroducing Adaptive: a smarter way to use WindsurfWe're launching an Adaptive model router, a redesigned model picker with pricing context, and removing daily limits for Max in Windsurf.April 6, 20264 min read"
+  },
+  {
+    "href": "/blog",
+    "label": "← Prev"
+  },
+  {
+    "href": "/blog",
+    "label": "1"
+  },
+  {
+    "href": "/blog/page/2",
+    "label": "2"
+  },
+  {
+    "href": "/blog/page/3",
+    "label": "3"
+  },
+  {
+    "href": "/blog/page/17",
+    "label": "17"
+  },
+  {
+    "href": "/blog/page/3",
+    "label": "Next →"
+  },
+  {
+    "href": "https://cognition.com/pages/privacy-policy?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "Privacy Policy"
+  },
+  {
+    "href": "https://cognition.com/pages/terms-of-service?dcid=e8c39b7f-c1f9-4e73-bd90-cb5691803810",
+    "label": "Terms of Service"
+  },
+  {
+    "href": "/privacy-choices",
+    "label": "Your Privacy Choices"
+  },
+  {
+    "href": "https://www.linkedin.com/company/cognition-ai-labs/",
+    "label": "LinkedIn"
+  },
+  {
+    "href": "https://x.com/cognition",
+    "label": "X (Twitter)"
+  }
+]
