@@ -16,9 +16,11 @@ try {
 
 if (!routes.some(r => r.slug === 'docs')) {
   routes.unshift({ slug: 'docs', title: 'PUKU Documentation' });
-  fs.writeFileSync(routesPath, JSON.stringify(routes, null, 2));
-  console.log('Added /docs to routes.json');
 }
+if (!routes.some(r => r.slug === 'careers')) {
+  routes.unshift({ slug: 'careers', title: 'Careers' });
+}
+fs.writeFileSync(routesPath, JSON.stringify(routes, null, 2));
 
 // 2. Scan and transform all html files in content/pages/
 const dirs = fs.readdirSync(pagesDir).filter(d => fs.existsSync(path.join(pagesDir, d, 'page.html')));
@@ -39,6 +41,8 @@ for (const dir of dirs) {
     let updatedHref = href;
     if (href.includes('docs.devin.ai') || href.includes('cli.devin.ai')) {
       updatedHref = '/docs';
+    } else if (href.includes('cognition.com/careers') || href.includes('devin.ai/careers')) {
+      updatedHref = '/careers';
     } else if (href.includes('learn.devinenterprise.com')) {
       updatedHref = '/university';
     } else if (href.includes('app.devin.ai/signup')) {
