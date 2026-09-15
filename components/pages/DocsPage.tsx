@@ -1,6 +1,9 @@
 'use client';
 import React from 'react';
 import PageInteractions from '../PageInteractions';
+import FadeIn from '../animations/FadeIn';
+import TextReveal from '../animations/TextReveal';
+import InteractiveCard from '../animations/InteractiveCard';
 
 export default function DocsPage() {
   return (
@@ -8,30 +11,34 @@ export default function DocsPage() {
       <div id="docs" className="dt-page bg-dt-bg text-dt-text font-body w-full flex flex-col gap-12 md:gap-16 lg:gap-20">
         {/* Hero Section */}
         <section className="w-full max-w-[1440px] mx-auto px-5 md:px-10 lg:px-20 xl:px-15 flex flex-col gap-8 pt-6 md:pt-10">
-          <div className="flex flex-col gap-6">
-            <div className="flex items-center gap-2">
-              <span className="w-2 h-2 shrink-0 bg-dt-primary rounded-full animate-pulse"></span>
-              <span className="text-[12px] tracking-[0.03em] uppercase font-mono leading-[1.25] text-dt-primary">PUKU Documentation</span>
+          <FadeIn direction="up" distance={20} duration={0.6}>
+            <div className="flex flex-col gap-6">
+              <div className="flex items-center gap-2">
+                <span className="w-2 h-2 shrink-0 bg-dt-primary rounded-full animate-pulse"></span>
+                <span className="text-[12px] tracking-[0.03em] uppercase font-mono leading-[1.25] text-dt-primary">PUKU Documentation</span>
+              </div>
+              <h1 className="font-normal text-[40px] leading-[1.05] tracking-[-0.03em] md:text-[52px] lg:text-[64px] lg:leading-[1.0] font-heading text-dt-text">
+                <TextReveal text="PUKU Documentation" />
+              </h1>
+              <p className="text-[16px] md:text-[18px] leading-[1.4] font-heading text-dt-text-secondary max-w-[720px]">
+                Everything you need to build, run, configure, and scale autonomous AI software engineering workflows with PUKU across Cloud, Desktop, and CLI.
+              </p>
             </div>
-            <h1 className="font-normal text-[40px] leading-[1.05] tracking-[-0.03em] md:text-[52px] lg:text-[64px] lg:leading-[1.0] font-heading text-dt-text">
-              PUKU Documentation
-            </h1>
-            <p className="text-[16px] md:text-[18px] leading-[1.4] font-heading text-dt-text-secondary max-w-[720px]">
-              Everything you need to build, run, configure, and scale autonomous AI software engineering workflows with PUKU across Cloud, Desktop, and CLI.
-            </p>
-          </div>
+          </FadeIn>
 
           {/* Quick Navigation Pills */}
-          <div className="flex flex-wrap gap-2 pt-2 border-b border-dt-divider pb-6">
-            <a href="#getting-started" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">Quickstart</a>
-            <a href="#puku-cloud" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">PUKU Cloud</a>
-            <a href="#puku-desktop" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">PUKU Desktop</a>
-            <a href="#puku-cli" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">PUKU CLI</a>
-            <a href="#skills-and-rules" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">Skills & Rules</a>
-            <a href="#mcp-and-plugins" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">MCP & Plugins</a>
-            <a href="#security-and-enterprise" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">Security & Enterprise</a>
-            <a href="#cli-reference" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">CLI Reference</a>
-          </div>
+          <FadeIn direction="up" delay={0.2} distance={15}>
+            <div className="flex flex-wrap gap-2 pt-2 border-b border-dt-divider pb-6">
+              <a href="#getting-started" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">Quickstart</a>
+              <a href="#puku-cloud" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">PUKU Cloud</a>
+              <a href="#puku-desktop" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">PUKU Desktop</a>
+              <a href="#puku-cli" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">PUKU CLI</a>
+              <a href="#skills-and-rules" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">Skills & Rules</a>
+              <a href="#mcp-and-plugins" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">MCP & Plugins</a>
+              <a href="#security-and-enterprise" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">Security & Enterprise</a>
+              <a href="#cli-reference" className="px-3 py-1.5 rounded bg-dt-tint text-dt-text text-[13px] font-mono hover:bg-dt-primary/10 hover:text-dt-primary border border-dt-divider transition-all">CLI Reference</a>
+            </div>
+          </FadeIn>
         </section>
 
         {/* Main Content & Sidebar Layout */}
