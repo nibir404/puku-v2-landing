@@ -1,0 +1,5 @@
+# Exclude static content data files from GitHub Linguist language stats
+content/** linguist-generated=true
+content/** linguist-vendored=true
+content/** linguist-documentation=true
+evidence/** linguist-generated=true
