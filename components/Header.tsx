@@ -4,46 +4,8 @@ import { useState, useEffect, useRef } from 'react';
 import { ChevronDown, Menu, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
-const groups: Record<string, { title?: string; links: [string, string][] }[]> = {
-  Product: [
-    {
-      title: 'Platform',
-      links: [
-        ['PUKU Cloud', '/cloud'],
-        ['PUKU Desktop', '/desktop'],
-        ['PUKU CLI', '/cli'],
-      ],
-    },
-    {
-      title: 'Features',
-      links: [
-        ['PUKU Review', '/review'],
-        ['PUKU Windows VM', '/windows'],
-      ],
-    },
-  ],
-  Solutions: [
-    {
-      links: [
-        ['Government', '/government'],
-        ['Partners', '/solutions/partners'],
-        ['AI Productivity Guarantee', '/guarantee'],
-        ['Security', '/security'],
-      ],
-    },
-  ],
-  Resources: [
-    {
-      links: [
-        ['Docs', '/docs'],
-        ['Community', '/community'],
-        ['PUKU University', '/university'],
-        ['Blog', '/blog'],
-        ['Careers', '/careers'],
-      ],
-    },
-  ],
-};
+import navigationGroups from '../content/navigation.json';
+const groups: Record<string, { title?: string; links: [string, string][] }[]> = Object.fromEntries(Object.entries(navigationGroups).filter(([name])=>name!=='Main' && name!=='Legal').map(([name,items])=>[name,[{links:items.map(([slug,title])=>[title,'/'+slug] as [string,string])}]]));
 
 const href = (url: string) => url;
 
@@ -94,14 +56,14 @@ export default function Header() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const navigation = () =>
-    ['Product', 'Solutions', 'Customers', 'Resources', 'Pricing'].map((name) =>
+  const navigation = (surface: string) =>
+    ['Why Puku', 'Product', 'Capabilities', 'For Business', 'Developers', 'Resources', 'Company'].map((name) =>
       groups[name] ? (
         <div className="nav-group relative" key={name}>
           <button
             className={'nav-trigger ' + (open === name ? 'active' : '')}
             aria-expanded={open === name}
-            aria-controls={'menu-' + name}
+            aria-controls={'menu-' + surface + '-' + name.replaceAll(' ', '-')}
             onClick={() => setOpen(open === name ? null : name)}
           >
             {name}
@@ -136,7 +98,7 @@ export default function Header() {
           </AnimatePresence>
         </div>
       ) : (
-        <a className="nav-link" key={name} href={href('/' + name.toLowerCase())}>
+        <a className="nav-link" key={name} href={href('/' + name.toLowerCase().replaceAll(' ', '-'))}>
           {name}
         </a>
       )
@@ -144,14 +106,14 @@ export default function Header() {
 
   const actions = () => (
     <>
-      <a className="demo-link" href="/demo">
-        Get a Demo
+      <a className="demo-link" href="/contact-sales">
+        Contact Sales
       </a>
       <a className="header-button outline" href="/download">
         Download
       </a>
-      <a className="header-button solid" href="/login">
-        Log in
+      <a className="header-button solid" href="/pricing">
+        Pricing
       </a>
     </>
   );
@@ -173,7 +135,7 @@ export default function Header() {
         <img src="/puku-logo.png" alt="PUKU" width="24" height="30" />
       </a>
       <nav className="desktop-nav" aria-label="Main navigation">
-        {navigation()}
+        {navigation('desktop')}
       </nav>
       <div className="desktop-actions">{actions()}</div>
       <button
@@ -199,7 +161,7 @@ export default function Header() {
             aria-modal="true"
             aria-label="Site menu"
           >
-            <nav aria-label="Mobile navigation">{navigation()}</nav>
+            <nav aria-label="Mobile navigation">{navigation('mobile')}</nav>
             <div className="mobile-actions">{actions()}</div>
           </motion.div>
         )}

@@ -1,874 +1,272 @@
 [
   {
-    "slug": "careers",
-    "title": "Careers"
-  },
-  {
-    "slug": "docs",
-    "title": "PUKU Documentation"
-  },
-  {
-    "slug": "blog",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/agentic-map-reduce",
-    "title": "Agentic MapReduce"
-  },
-  {
-    "slug": "blog/ahead-partnership",
-    "title": "PUKU and AHEAD Form Strategic AI DevOps Partnership"
-  },
-  {
-    "slug": "blog/amazon-codewhisperer-review",
-    "title": "Amazon CodeWhisperer is out of beta. We tried it. Spoiler: it isn’t good."
-  },
-  {
-    "slug": "blog/anduril-case-study",
-    "title": "Anduril on PUKU"
-  },
-  {
-    "slug": "blog/atlassian-codeium-announcement",
-    "title": "Atlassian x PUKU"
-  },
-  {
-    "slug": "blog/attribution-announcement",
-    "title": "Code Suggestion Attribution"
-  },
-  {
-    "slug": "blog/best-ai-product-lists",
-    "title": "Best AI Product Lists"
-  },
-  {
-    "slug": "blog/beta-launch-announcement",
-    "title": "PUKU Beta Launch"
-  },
-  {
-    "slug": "blog/bing-does-not-index-codeium",
-    "title": "We compete with Github. Bing does not show our website."
-  },
-  {
-    "slug": "blog/category/case-studies",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/category/changelist",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/category/company",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/category/enterprise",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/category/industry",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/category/product",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/changelist-apr23",
-    "title": "Changelist: April 2023"
-  },
-  {
-    "slug": "blog/changelist-apr24",
-    "title": "Changelist: April 2024"
-  },
-  {
-    "slug": "blog/changelist-aug23-sep23",
-    "title": "Changelist: August & September 2023"
-  },
-  {
-    "slug": "blog/changelist-dec22",
-    "title": "Changelist: December 2022"
-  },
-  {
-    "slug": "blog/changelist-dec23",
-    "title": "Changelist: December 2023"
-  },
-  {
-    "slug": "blog/changelist-feb23",
-    "title": "Changelist: February 2023"
-  },
-  {
-    "slug": "blog/changelist-feb24",
-    "title": "Changelist: February 2024"
-  },
-  {
-    "slug": "blog/changelist-jan23",
-    "title": "Changelist: January 2023"
-  },
-  {
-    "slug": "blog/changelist-jan24",
-    "title": "Changelist: January 2024"
-  },
-  {
-    "slug": "blog/changelist-jul23",
-    "title": "Changelist: July 2023"
-  },
-  {
-    "slug": "blog/changelist-jun23",
-    "title": "Changelist: June 2023"
-  },
-  {
-    "slug": "blog/changelist-jun24",
-    "title": "Changelist: June 2024"
-  },
-  {
-    "slug": "blog/changelist-jun25",
-    "title": "Changelist: June 2025"
-  },
-  {
-    "slug": "blog/changelist-mar23",
-    "title": "Changelist: March 2023"
-  },
-  {
-    "slug": "blog/changelist-mar24",
-    "title": "Changelist: March 2024"
-  },
-  {
-    "slug": "blog/changelist-may23",
-    "title": "Changelist: May 2023"
-  },
-  {
-    "slug": "blog/changelist-may24",
-    "title": "Changelist: May 2024"
-  },
-  {
-    "slug": "blog/changelist-nov22",
-    "title": "Changelist: November 2022"
-  },
-  {
-    "slug": "blog/changelist-nov23",
-    "title": "Changelist: November 2023"
-  },
-  {
-    "slug": "blog/changelist-oct23",
-    "title": "Changelist: October 2023"
-  },
-  {
-    "slug": "blog/chatgpt-and-copilots-fundamental-flaw",
-    "title": "Why ChatGPT Highlights Copilot's Fundamental Flaw"
-  },
-  {
-    "slug": "blog/claude-fable-5-available-in-devin",
-    "title": "Update on Claude Fable 5 in PUKU"
-  },
-  {
-    "slug": "blog/claude-opus-5",
-    "title": "Claude Opus 5 is now available in PUKU"
-  },
-  {
-    "slug": "blog/claude-sonnet-5",
-    "title": "Claude Sonnet 5 is now available in PUKU"
-  },
-  {
-    "slug": "blog/clearwater-analytics-case-study",
-    "title": "Clearwater Analytics on PUKU"
-  },
-  {
-    "slug": "blog/code-assistant-comparison-copilot-tabnine-ghostwriter-codeium",
-    "title": "AI Code Assistants: Head to Head"
-  },
-  {
-    "slug": "blog/code-llm-eval-why-you-should-not-trust-all-the-numbers-you-see",
-    "title": "Why You Should Not Trust All the Numbers You See"
-  },
-  {
-    "slug": "blog/codeium-better-chat",
-    "title": "Better Chat than ChatGPT"
-  },
-  {
-    "slug": "blog/codeium-chrome-extension-launch",
-    "title": "PUKU Chrome Extension"
-  },
-  {
-    "slug": "blog/codeium-command-improvement-case-study",
-    "title": "Command: A Case Study in Product Development"
-  },
-  {
-    "slug": "blog/codeium-command-launch-announcement",
-    "title": "PUKU Command"
-  },
-  {
-    "slug": "blog/codeium-context-pinning-launch",
-    "title": "Context Pinning"
-  },
-  {
-    "slug": "blog/codeium-copilot-alternative-in-databricks-notebooks",
-    "title": "PUKU in Databricks Notebooks"
-  },
-  {
-    "slug": "blog/codeium-copilot-alternative-in-emacs",
-    "title": "PUKU in Emacs"
-  },
-  {
-    "slug": "blog/codeium-copilot-alternative-in-vim",
-    "title": "PUKU in Vim and Neovim"
-  },
-  {
-    "slug": "blog/codeium-copilot-alternative-in-visual-studio-sublime-eclipse",
-    "title": "PUKU in Visual Studio, and Eclipse"
-  },
-  {
-    "slug": "blog/codeium-cultural-principles",
-    "title": "Our Cultural Principles"
-  },
-  {
-    "slug": "blog/codeium-culture-be-valuable-not-right",
-    "title": "Culture: Be Valuable, Not Right"
-  },
-  {
-    "slug": "blog/codeium-for-enterprises",
-    "title": "PUKU for Enterprises"
-  },
-  {
-    "slug": "blog/codeium-forbes-ai-50",
-    "title": "PUKU: Forbes AI 50 Recipient"
-  },
-  {
-    "slug": "blog/codeium-in-jupyter-notebooks",
-    "title": "PUKU in Jupyter Notebooks"
-  },
-  {
-    "slug": "blog/codeium-is-soc2-compliant",
-    "title": "PUKU is SOC2 Compliant"
-  },
-  {
-    "slug": "blog/codeium-is-soc2-type2-compliant",
-    "title": "PUKU is SOC 2 Type 2 Compliant"
-  },
-  {
-    "slug": "blog/codeium-live",
-    "title": "Introducing PUKU Live: Free, Forever Up-to-Date In-Browser Chat"
-  },
-  {
-    "slug": "blog/codeium-prototype-features",
-    "title": "Prototype Capabilities"
-  },
-  {
-    "slug": "blog/codeium-stack-overflow-developer-survey-2024",
-    "title": "PUKU: Rising the Ranks on Stack Overflow"
-  },
-  {
-    "slug": "blog/codeium-stack-overflow-pulse-survey",
-    "title": "PUKU: Leader According to Stack Overflow Survey"
-  },
-  {
-    "slug": "blog/codeium-teams-launch",
-    "title": "PUKU Teams"
-  },
-  {
-    "slug": "blog/codeium-truly-enterprise-ready",
-    "title": "PUKU: Truly Enterprise-Ready Code Assistant"
-  },
-  {
-    "slug": "blog/codeium-vs-codium-ai",
-    "title": "PUKU Brings VS Codium AI Powers"
-  },
-  {
-    "slug": "blog/codesandbox-codeium-partnership-announcement",
-    "title": "CodeSandbox x PUKU"
-  },
-  {
-    "slug": "blog/cognition-windsurf-il6",
-    "title": "PUKU and PUKU's Commitment to United States Government (USG) and Impact Level 6 (IL6) Deployments"
-  },
-  {
-    "slug": "blog/context-aware-everything-more-advanced-realtime-context-than-github-copilot",
-    "title": "Context Aware Everything: More Advanced Realtime Context than GitHub Copilot"
-  },
-  {
-    "slug": "blog/copilot-for-x-learnings",
-    "title": "What \"Copilot for X\" Really Takes"
-  },
-  {
-    "slug": "blog/copilot-trains-on-gpl-codeium-does-not",
-    "title": "GitHub Copilot Emits GPL. PUKU Does Not."
-  },
-  {
-    "slug": "blog/devin-review-windsurf",
-    "title": "Fast and Comprehensive Code Review, Now in PUKU"
-  },
-  {
-    "slug": "blog/devins-slack-etiquette",
-    "title": "PUKU's Slack Etiquette"
-  },
-  {
-    "slug": "blog/eclipse-codeium-chat-announcement",
-    "title": "PUKU Chat in Eclipse!"
-  },
-  {
-    "slug": "blog/fable-5-1",
-    "title": "Fable 5.1 in PUKU and Why It’s Cheaper than Opus 5"
-  },
-  {
-    "slug": "blog/gartner-windsurf-cognition-magic-quadrant-ai-coding-assistants",
-    "title": "PUKU (PUKU) Named a Leader in the 2025 Gartner® Magic Quadrant™ for AI Code Assistants"
-  },
-  {
-    "slug": "blog/gemini-31-pro",
-    "title": "Gemini 3.1 Pro is now available in PUKU"
-  },
-  {
-    "slug": "blog/gemini-37-flash",
-    "title": "Gemini 3.7 Flash is now available in PUKU"
-  },
-  {
-    "slug": "blog/github-copilot-enterprise-review",
-    "title": "What do you actually get with GitHub Copilot for Enterprises?"
-  },
-  {
-    "slug": "blog/github-copilot-security-scanning-does-not-work",
-    "title": "GitHub Copilot’s Security Filters Don’t Work"
-  },
-  {
-    "slug": "blog/gitlab-ai-review",
-    "title": "GitLab Code Suggestions: Why You Should Not Build Your Own Generative AI Product for Code"
-  },
-  {
-    "slug": "blog/glm-5-minimax-m25",
-    "title": "GLM-5 and Minimax M2.5 are now available in PUKU"
-  },
-  {
-    "slug": "blog/golden-metrics-characters-per-opportunity-percentage-code-written",
-    "title": "The Golden Metrics: Characters per Opportunity and Percentage Code Written"
-  },
-  {
-    "slug": "blog/google-gemini-codeassist-review",
-    "title": "Google Gemini CodeAssist: A Review"
-  },
-  {
-    "slug": "blog/governing-ai-agents-at-scale-with-blackrock",
-    "title": "Governing AI agents at scale with BlackRock"
-  },
-  {
-    "slug": "blog/gpt-5-1",
-    "title": "GPT 5.1, GPT 5.1-Codex, and GPT-5.1-Codex Mini are now available in PUKU"
-  },
-  {
-    "slug": "blog/gpt-5-2",
-    "title": "GPT 5.2 is now available in PUKU!"
-  },
-  {
-    "slug": "blog/gpt-5-2-codex",
-    "title": "GPT-5.2-Codex is now available in PUKU!"
-  },
-  {
-    "slug": "blog/gpt-5-6",
-    "title": "GPT-5.6 models are now available in PUKU"
-  },
-  {
-    "slug": "blog/gpt-5-6-sol-price-drop",
-    "title": "GPT-5.6 Sol: Now even cheaper in PUKU"
-  },
-  {
-    "slug": "blog/gpt-5-6-sol-promo",
-    "title": "GPT-5.6 Sol: 70% off in PUKU"
-  },
-  {
-    "slug": "blog/gpt-53-codex-spark",
-    "title": "GPT-5.3-Codex-Spark is now available in PUKU"
-  },
-  {
-    "slug": "blog/gpt-54",
-    "title": "GPT-5.4 is now available in PUKU"
-  },
-  {
-    "slug": "blog/gpt-6-astra",
-    "title": "GPT-6 Astra is now available in PUKU"
-  },
-  {
-    "slug": "blog/grok-4-6",
-    "title": "Grok 4.6 is now available in PUKU"
-  },
-  {
-    "slug": "blog/how-is-codeium-free",
-    "title": "How is PUKU Free?"
-  },
-  {
-    "slug": "blog/how-to-make-ai-ux-your-moat",
-    "title": "How to Make AI UX Your Moat"
-  },
-  {
-    "slug": "blog/how-we-think-of-ai-product-development",
-    "title": "How We Think of AI Product Development"
-  },
-  {
-    "slug": "blog/human-tool-interface",
-    "title": "The Effect of Generative AI on the Human-Tool Interface"
-  },
-  {
-    "slug": "blog/hybrid-deployment",
-    "title": "Hybrid Deployment: Perfect mix of security and performance"
-  },
-  {
-    "slug": "blog/inline-fim-code-suggestions",
-    "title": "Code Suggestions You Don’t Get from Copilot: In-line FIM"
-  },
-  {
-    "slug": "blog/introducing-at-mentions",
-    "title": "Streamlining AI Code Chat with @ Mentions"
-  },
-  {
-    "slug": "blog/introducing-devin-outposts",
-    "title": "Introducing PUKU Outposts"
-  },
-  {
-    "slug": "blog/introducing-pr-stacks",
-    "title": "Introducing Stacked PRs in PUKU"
-  },
-  {
-    "slug": "blog/is-your-company-banning-gen-ai",
-    "title": "Should your Company ban Generative AI?"
-  },
-  {
-    "slug": "blog/jetbrains-codeium-chat-announcement",
-    "title": "PUKU Chat in JetBrains!"
-  },
-  {
-    "slug": "blog/jetbrains-codeium-command-launch",
-    "title": "PUKU Command in JetBrains"
-  },
-  {
-    "slug": "blog/kimi-k27-glm-52-devin-desktop",
-    "title": "Kimi K2.7 and GLM 5.2 Now Available in PUKU Desktop and CLI"
-  },
-  {
-    "slug": "blog/kimi-k3",
-    "title": "Kimi K3 is now available in PUKU"
-  },
-  {
-    "slug": "blog/latency-the-ultimate-constraint",
-    "title": "Latency, the Ultimate Gen AI Constraint"
-  },
-  {
-    "slug": "blog/mongodb-codeium-partnership-announcement",
-    "title": "MongoDB x PUKU"
-  },
-  {
-    "slug": "blog/one-million-codeium-downloads",
-    "title": "PUKU Passes One Million Downloads"
-  },
-  {
-    "slug": "blog/opus-45",
-    "title": "Opus 4.5 is now available in PUKU"
-  },
-  {
-    "slug": "blog/opus-46",
-    "title": "Opus 4.6 is now available in PUKU"
-  },
-  {
-    "slug": "blog/opus-46-fast",
-    "title": "Opus 4.6 (fast mode) is now available in PUKU"
-  },
-  {
-    "slug": "blog/opus-47-fast",
-    "title": "Opus 4.7 (fast mode) is now available in PUKU"
-  },
-  {
-    "slug": "blog/our-brand",
-    "title": "Our Brand"
-  },
-  {
-    "slug": "blog/our-commitment-cognition-partnership",
-    "title": "Our Commitment to PUKU"
-  },
-  {
-    "slug": "blog/page/10",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/11",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/12",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/13",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/14",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/15",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/16",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/17",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/2",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/3",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/4",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/5",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/6",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/7",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/8",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/page/9",
-    "title": "Blog"
-  },
-  {
-    "slug": "blog/percentage-code-written",
-    "title": "Percentage of Code Written"
-  },
-  {
-    "slug": "blog/personalization-context-awareness-vs-customer-specific-finetuning",
-    "title": "Personalization: Context Awareness vs Customer-Specific Finetuning"
-  },
-  {
-    "slug": "blog/productionizing-context-aware-everything",
-    "title": "Productionizing Context Aware Everything"
-  },
-  {
-    "slug": "blog/queued-messages",
-    "title": "PUKU Queued Messages Release"
-  },
-  {
-    "slug": "blog/rebuilding-devins-chat-renderer",
-    "title": "How PUKU rebuilt its renderer"
-  },
-  {
-    "slug": "blog/remote-indexing-multirepo-announcement",
-    "title": "Remote Indexing and Multi-repository Context Awareness"
-  },
-  {
-    "slug": "blog/security-in-devin-review",
-    "title": "Introducing Security in PUKU Review"
-  },
-  {
-    "slug": "blog/security-swarm-eval",
-    "title": "Evaluating Security Swarm"
-  },
-  {
-    "slug": "blog/series-b-annoucement",
-    "title": "Series B Announcement"
-  },
-  {
-    "slug": "blog/sonnet-46",
-    "title": "Claude Sonnet 4.6 is now available in PUKU"
-  },
-  {
-    "slug": "blog/swe-1-5",
-    "title": "Introducing SWE-1.5: Our Fast Agent Model"
-  },
-  {
-    "slug": "blog/termium-codeium-in-terminal-launch",
-    "title": "Termium: PUKU in the Terminal"
-  },
-  {
-    "slug": "blog/user-analytics-launch",
-    "title": "User Analytics"
-  },
-  {
-    "slug": "blog/user-personalization-for-llms",
-    "title": "User Personalization, the Next Frontier in LLMs"
-  },
-  {
-    "slug": "blog/using-code-syntax-parsing-for-generative-ai",
-    "title": "Using Code Syntax Parsing for Generative AI"
-  },
-  {
-    "slug": "blog/visual-studio-codeium-chat-announcement",
-    "title": "PUKU Chat in Visual Studio!"
-  },
-  {
-    "slug": "blog/what-github-copilot-lacks-finetuning-on-your-private-code",
-    "title": "What GitHub Copilot Lacks: Fine-tuning on Your Private Code"
-  },
-  {
-    "slug": "blog/what-to-know-about-the-context-going-into-your-llm",
-    "title": "What to Know About the Context Going into your Code LLM"
-  },
-  {
-    "slug": "blog/what-we-think-of-2023q4-ai-announcements",
-    "title": "What We Think of 2023 Q4 AI News"
-  },
-  {
-    "slug": "blog/what-you-actually-get-and-dont-get-with-github-copilot-for-business",
-    "title": "What you Actually Get (and Don’t Get) with GitHub Copilot for Business"
-  },
-  {
-    "slug": "blog/why-code-completion-needs-fill-in-the-middle",
-    "title": "Why your AI Code Completion tool needs to Fill in the Middle"
-  },
-  {
-    "slug": "blog/windsurf-2-0",
-    "title": "PUKU 2.0: Introducing the Agent Command Center and PUKU in PUKU"
-  },
-  {
-    "slug": "blog/windsurf-adaptive",
-    "title": "Introducing Adaptive: a smarter way to use PUKU"
-  },
-  {
-    "slug": "blog/windsurf-arena-mode-leaderboard",
-    "title": "PUKU Arena Mode Leaderboard: The People Want Speed"
-  },
-  {
-    "slug": "blog/windsurf-is-now-devin-desktop",
-    "title": "PUKU is now PUKU Desktop"
-  },
-  {
-    "slug": "blog/windsurf-pricing-plans",
-    "title": "Introducing our new PUKU pricing plans"
-  },
-  {
-    "slug": "blog/windsurf-tab-2",
-    "title": "PUKU Tab v2: 25-75% more accepted code with Variable Aggression"
-  },
-  {
-    "slug": "blog/windsurf-wave-10-browser",
-    "title": "Wave 10: The PUKU Browser"
-  },
-  {
-    "slug": "blog/windsurf-wave-10-ux-enterprise",
-    "title": "Wave 10: Other Announcements"
-  },
-  {
-    "slug": "blog/windsurf-wave-11",
-    "title": "Wave 11: Just Keep Shipping"
-  },
-  {
-    "slug": "blog/windsurf-wave-12",
-    "title": "PUKU Wave 12: PUKU features in PUKU"
-  },
-  {
-    "slug": "blog/windsurf-wave-13",
-    "title": "PUKU Wave 13: Merry Shipmas"
-  },
-  {
-    "slug": "blog/windsurf-wave-14",
-    "title": "Wave 14: Arena Mode - May the Best Model Win"
-  },
-  {
-    "slug": "blog/windsurfs-next-chapter",
-    "title": "The Next Chapter"
-  },
-  {
-    "slug": "blog/windsurfs-next-stage",
-    "title": "The Next Stage of PUKU"
-  },
-  {
-    "slug": "blog/work-at-little-tech-codeium",
-    "title": "Work at Little Tech"
-  },
-  {
-    "slug": "blog/wwt-case-study",
-    "title": "World Wide Technology on PUKU"
-  },
-  {
-    "slug": "blog/zillow-codeium-case-study",
-    "title": "Zillow on PUKU"
-  },
-  {
-    "slug": "cli",
-    "title": "PUKU CLI"
-  },
-  {
-    "slug": "cloud",
-    "title": "PUKU Cloud"
-  },
-  {
-    "slug": "community",
-    "title": "PUKU Community"
-  },
-  {
-    "slug": "customers",
-    "title": "Industry leaders build with PUKU"
-  },
-  {
-    "slug": "customers/ahead",
-    "title": "From Writing Code to Designing Systems: How AHEAD Unlocked 8x–40x Faster Engineering with PUKU"
-  },
-  {
-    "slug": "customers/angellist",
-    "title": "How AngelList Completed a Redshift-to-Snowflake Migration 5.2x Faster with PUKU"
-  },
-  {
-    "slug": "customers/bilt",
-    "title": "PUKU helps Bilt engineers overcome coder's block and accelerate development across complex projects"
-  },
-  {
-    "slug": "customers/compiledhealth",
-    "title": "How Compiled Health uses PUKU to make the standard of care executable"
-  },
-  {
-    "slug": "customers/comun",
-    "title": "Común: How a 13-person engineering team tripled its output"
-  },
-  {
-    "slug": "customers/crossmint",
-    "title": "Scaling Open Source Development of GOAT with PUKU"
-  },
-  {
-    "slug": "customers/ebanx",
-    "title": "EBANX: From one engineer's evaluation to 92% of merged PRs"
-  },
-  {
-    "slug": "customers/endava",
-    "title": "How Endava Is Scaling AI-Native Delivery with PUKU"
-  },
-  {
-    "slug": "customers/evinova",
-    "title": "How Evinova accelerates regulated software delivery with PUKU"
-  },
-  {
-    "slug": "customers/fefundinfo",
-    "title": "How FE fundinfo Scaled Eng Capacity with AI-Driven Automation Across 1,800 Repos"
-  },
-  {
-    "slug": "customers/geaerospace",
-    "title": "How GE Aerospace uses PUKU to invent the future of flight"
-  },
-  {
-    "slug": "customers/gumroad",
-    "title": "How PUKU Became Gumroad's #1 Contributor with 1,500+ Merged PRs"
-  },
-  {
-    "slug": "customers/hamming",
-    "title": "PUKU contributes 25% of total code volume at Hamming"
-  },
-  {
-    "slug": "customers/hippo",
-    "title": "Building the Future of Insurance with Hippo"
-  },
-  {
-    "slug": "customers/itau",
-    "title": "How Itaú Deployed AI Across the SDLC at Global-Finance Scale"
-  },
-  {
-    "slug": "customers/linktree",
-    "title": "Linktree expands social media platform coverage and ships new features with PUKU"
-  },
-  {
-    "slug": "customers/litera",
-    "title": "With PUKU, Litera cut regression cycles by 90%, delivering new products to customers faster than ever."
-  },
-  {
-    "slug": "customers/modal",
-    "title": "How Modal uses PUKU to investigate 80% of its incidents before an engineer opens the thread"
-  },
-  {
-    "slug": "customers/nubank",
-    "title": "How Nubank refactors millions of lines of code to improve engineering efficiency with PUKU"
-  },
-  {
-    "slug": "customers/ramp",
-    "title": "PUKU fixes tens of thousands of hours of technical debt, letting engineers focus on what matters most: saving their customers time and money"
-  },
-  {
-    "slug": "customers/rohlikgroup",
-    "title": "Rohlik Group: Building the agent-driven grocery company"
-  },
-  {
-    "slug": "customers/rvtech",
-    "title": "How Rivian and VW's Joint Venture Uses AI to Ship the Future of Vehicle Software"
-  },
-  {
-    "slug": "customers/tavrn",
-    "title": "How Tavrn multiplies output across every function inside HIPAA constraints"
-  },
-  {
-    "slug": "customers/thecitationgroup",
-    "title": "How The Citation Group Measures Engineering ROI with PUKU"
-  },
-  {
-    "slug": "customers/wpp-enterprise-solutions",
-    "title": "How WPP Won a Competitive 3-year Renewal by Proving 30-40% Efficiency Gains with PUKU"
-  },
-  {
-    "slug": "demo",
-    "title": "See how PUKU can work for your team"
-  },
-  {
-    "slug": "desktop",
-    "title": "PUKU Desktop"
-  },
-  {
-    "slug": "download",
-    "title": "Select an option to download PUKU Desktop for MacOS"
-  },
-  {
-    "slug": "enterprise",
-    "title": "Secure, private, powerful"
-  },
-  {
-    "slug": "government",
-    "title": "Build more with PUKU, the AI software engineer"
-  },
-  {
-    "slug": "guarantee",
-    "title": "The AI Productivity Guarantee"
-  },
-  {
-    "slug": "jetbrains",
-    "title": "PUKU JetBrains"
+    "slug": "why-puku",
+    "title": "Why Puku",
+    "group": "Main"
   },
   {
     "slug": "pricing",
-    "title": "PUKUPlans and Pricing"
+    "title": "Pricing",
+    "group": "Main"
   },
   {
-    "slug": "privacy-choices",
-    "title": "Your privacy choices"
+    "slug": "download",
+    "title": "Download",
+    "group": "Main"
   },
   {
-    "slug": "review",
-    "title": "PUKU Review  is the way to understand code."
+    "slug": "contact-sales",
+    "title": "Contact Sales",
+    "group": "Main"
+  },
+  {
+    "slug": "ai",
+    "title": "Puku AI",
+    "group": "Product"
+  },
+  {
+    "slug": "editor",
+    "title": "Puku Editor",
+    "group": "Product"
+  },
+  {
+    "slug": "cli",
+    "title": "Puku CLI",
+    "group": "Product"
+  },
+  {
+    "slug": "app",
+    "title": "Puku App",
+    "group": "Product"
+  },
+  {
+    "slug": "co-work",
+    "title": "Puku Co-work",
+    "group": "Product"
+  },
+  {
+    "slug": "design",
+    "title": "Puku Design",
+    "group": "Product"
+  },
+  {
+    "slug": "cloud",
+    "title": "Puku Cloud",
+    "group": "Product"
+  },
+  {
+    "slug": "ai-agents",
+    "title": "AI Agents",
+    "group": "Capabilities"
+  },
+  {
+    "slug": "context-engine",
+    "title": "Context Engine",
+    "group": "Capabilities"
+  },
+  {
+    "slug": "project-memory",
+    "title": "Project Memory",
+    "group": "Capabilities"
+  },
+  {
+    "slug": "multi-model-intelligence",
+    "title": "Multi-Model Intelligence",
+    "group": "Capabilities"
+  },
+  {
+    "slug": "ai-coding",
+    "title": "AI Coding",
+    "group": "Capabilities"
+  },
+  {
+    "slug": "ai-design",
+    "title": "AI Design",
+    "group": "Capabilities"
+  },
+  {
+    "slug": "ai-research",
+    "title": "AI Research",
+    "group": "Capabilities"
+  },
+  {
+    "slug": "ai-automation",
+    "title": "AI Automation",
+    "group": "Capabilities"
+  },
+  {
+    "slug": "mcp-integrations",
+    "title": "MCP & Integrations",
+    "group": "Capabilities"
+  },
+  {
+    "slug": "individuals",
+    "title": "Puku for Individuals",
+    "group": "For Business"
+  },
+  {
+    "slug": "teams",
+    "title": "Puku for Teams",
+    "group": "For Business"
+  },
+  {
+    "slug": "enterprise",
+    "title": "Puku for Enterprise",
+    "group": "For Business"
   },
   {
     "slug": "security",
-    "title": "PUKU for Security"
+    "title": "Security",
+    "group": "For Business"
   },
   {
-    "slug": "security-program",
-    "title": "Security VulnerabilityRemediation Program"
+    "slug": "privacy",
+    "title": "Privacy",
+    "group": "For Business"
   },
   {
-    "slug": "solutions/partners",
-    "title": "Partnerships"
+    "slug": "trust-center",
+    "title": "Trust Center",
+    "group": "For Business"
   },
   {
-    "slug": "university",
-    "title": "PUKU University"
+    "slug": "developers",
+    "title": "Developers",
+    "group": "Developers"
   },
   {
-    "slug": "windows",
-    "title": "PUKU is gettinga Windows PC"
+    "slug": "api",
+    "title": "API",
+    "group": "Developers"
+  },
+  {
+    "slug": "sdk",
+    "title": "SDK",
+    "group": "Developers"
+  },
+  {
+    "slug": "mcp",
+    "title": "MCP",
+    "group": "Developers"
+  },
+  {
+    "slug": "integrations",
+    "title": "Integrations",
+    "group": "Developers"
+  },
+  {
+    "slug": "docs",
+    "title": "Documentation",
+    "group": "Developers"
+  },
+  {
+    "slug": "docs/quickstart",
+    "title": "Quickstart",
+    "group": "Developers"
+  },
+  {
+    "slug": "docs/cli",
+    "title": "Puku CLI Documentation",
+    "group": "Developers"
+  },
+  {
+    "slug": "docs/editor",
+    "title": "Puku Editor Documentation",
+    "group": "Developers"
+  },
+  {
+    "slug": "docs/app",
+    "title": "Puku App Documentation",
+    "group": "Developers"
+  },
+  {
+    "slug": "docs/agents",
+    "title": "Agent Documentation",
+    "group": "Developers"
+  },
+  {
+    "slug": "docs/api-reference",
+    "title": "API Reference",
+    "group": "Developers"
+  },
+  {
+    "slug": "blog",
+    "title": "Blog",
+    "group": "Resources"
+  },
+  {
+    "slug": "engineering",
+    "title": "Engineering",
+    "group": "Resources"
+  },
+  {
+    "slug": "guides",
+    "title": "Guides",
+    "group": "Resources"
+  },
+  {
+    "slug": "tutorials",
+    "title": "Tutorials",
+    "group": "Resources"
+  },
+  {
+    "slug": "case-studies",
+    "title": "Case Studies",
+    "group": "Resources"
+  },
+  {
+    "slug": "changelog",
+    "title": "Changelog",
+    "group": "Resources"
+  },
+  {
+    "slug": "community",
+    "title": "Community",
+    "group": "Resources"
+  },
+  {
+    "slug": "about",
+    "title": "About",
+    "group": "Company"
+  },
+  {
+    "slug": "careers",
+    "title": "Careers",
+    "group": "Company"
+  },
+  {
+    "slug": "press",
+    "title": "Press",
+    "group": "Company"
+  },
+  {
+    "slug": "contact",
+    "title": "Contact",
+    "group": "Company"
+  },
+  {
+    "slug": "terms-of-service",
+    "title": "Terms of Service",
+    "group": "Legal"
+  },
+  {
+    "slug": "privacy-policy",
+    "title": "Privacy Policy",
+    "group": "Legal"
+  },
+  {
+    "slug": "cookie-policy",
+    "title": "Cookie Policy",
+    "group": "Legal"
+  },
+  {
+    "slug": "acceptable-use-policy",
+    "title": "Acceptable Use Policy",
+    "group": "Legal"
+  },
+  {
+    "slug": "responsible-disclosure",
+    "title": "Responsible Disclosure",
+    "group": "Legal"
   }
 ]

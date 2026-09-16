@@ -1,36 +1,21 @@
-# PUKU website
+# Puku website
 
-Next.js App Router, React, Tailwind CSS and Lucide implementation of the captured Devin marketing site, rebranded with the supplied PUKU logo and favicon.
+A Next.js website using the existing Devin-style design system. The public site contains exactly the 55 pages listed in [PAGE-INVENTORY.md](PAGE-INVENTORY.md).
 
-## Run
+## Development
 
-```sh
-npm install
-npm run dev
-```
+- `npm install`
+- `npm run dev`
+- `npm run typecheck`
+- `npm run build`
+- `npm run start`
 
-Production: `npm run build` then `npm run start`. Preview: http://127.0.0.1:3000.
+## Page structure
 
-## Current scope
+`content/routes.json` is the public page allowlist (54 entries plus Home). `content/navigation.json` holds the eight requested navigation groups. Shared navigation and footer expose the approved pages. The catch-all route rejects any page outside the allowlist.
 
-216 captured source routes plus the homepage and local account/download confirmation screens. Includes product pages, pricing, enterprise, government, security, guarantee, partners, community, university, review, 25 customer stories, blog archive and captured articles. `content/routes.json` is the authoritative inventory.
+Existing matching pages retain their captured layouts; new pages use the same theme tokens, typography and responsive spacing. Removed page content is recoverable from Git history. Source CSS and assets remain in place to preserve the design system.
 
-Shared navigation, mobile drawer, product tabs, FAQ expansion, customer filters, CLI keyboard model selection, privacy preference persistence and preview form validation are implemented. Customer filter categories are inferred from the captured story text; they are not verified against the original service's category data.
+## Content availability
 
-Login, signup, lead forms, repository review and installers are frontend previews. They do not create accounts, submit data, run agents or download a PUKU binary. Uncaptured video controls explain that the source video is unavailable. Existing captured embeds depend on their external hosts.
-
-## Remaining work
-
-The source browser reports ERR_INTERNET_DISCONNECTED, preventing further capture. `content/external-routes.json` records 79 uncaptured destinations, including older articles, category pagination and historical application links. Those links retain their source destinations; they are not counted as local pages. `content/missing-assets.json` records 74 unresolved source resources; `content/local-audit.json` identifies 31 unresolved local image references, mostly article images and video posters. These need recovery from the source. Full source interaction fidelity and scroll choreography are not complete.
-
-## Files and continuation
-
-- `content/pages/`: original captures, screenshots and generated page markup.
-- `public/assets/`: downloaded source images, fonts and media.
-- `scripts/prepare-pages.mjs`: generate branded pages and map assets.
-- `scripts/finalize-pages.mjs`: scoped styles, review layout, installer controls, filtering metadata and outbound fallback links. Run after preparing pages.
-- `scripts/check-routes.mjs`: check all captured routes against the running local preview.
-- `content/route-check.json`: latest HTTP result; all 216 captured routes returned successfully.
-- `design-qa.md`: verification scope and outstanding issues.
-
-Do not treat a successful build as proof that every source page or interaction has been duplicated.
+Legal pages await approved policy text. Downloads, SDK packages, API specifications and release notes were not included in the supplied project. These pages state their availability explicitly. Contact forms remain local previews and do not send submissions.

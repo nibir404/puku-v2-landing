@@ -896,3 +896,27 @@ button:focus-visible {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* Puku page directory: existing Devin tokens, typography and responsive rhythm. */
+.puku-directory{margin-top:100px;border-top:1px solid var(--color-dt-divider);padding:56px 4.16667% 24px;background:var(--color-dt-bg);color:var(--color-dt-text)}
+.puku-directory-intro{display:flex;align-items:center;gap:18px;font-size:24px;letter-spacing:-.03em;margin-bottom:40px}
+.puku-directory-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:40px 24px}
+.puku-directory-grid h2{font:12px var(--font-mono);text-transform:uppercase;letter-spacing:.05em;margin:0 0 16px;color:var(--color-dt-text-secondary)}
+.puku-directory-grid a{display:block;font-size:14px;line-height:1.5;margin:8px 0;width:fit-content}
+.puku-directory a:hover{color:var(--color-dt-primary)}
+.puku-directory-copyright{margin-top:48px;padding-top:24px;border-top:1px solid var(--color-dt-divider);font:12px var(--font-mono);color:var(--color-dt-text-secondary)}
+.puku-content-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;margin:64px 0 24px}
+.puku-content-card{padding:28px;background:var(--color-dt-tint);border:1px solid var(--color-dt-divider);border-radius:4px}
+.puku-content-card h2{font:400 24px/1.2 var(--font-heading);letter-spacing:-.02em;margin:20px 0 16px}
+.puku-content-card p{font-size:16px;line-height:1.6;color:var(--color-dt-text-secondary);margin:12px 0}
+.puku-content-card a{color:var(--color-dt-primary);font-size:14px}
+.puku-related{border-top:1px solid var(--color-dt-divider)}
+.puku-related a{display:flex;justify-content:space-between;padding:20px 0;border-bottom:1px solid var(--color-dt-divider);font-size:18px}
+.puku-related a:hover{color:var(--color-dt-primary)}
+.desktop-nav .nav-trigger{padding-left:8px;padding-right:6px}
+.site-header{gap:24px}
+.nav-dropdown{max-height:calc(100dvh - 100px);overflow-y:auto}
+@media(max-width:1279px){.desktop-nav,.desktop-actions{display:none}.mobile-toggle{display:block;margin-left:auto;background:transparent;border:0;cursor:pointer}.mobile-drawer{display:block;position:fixed;top:67px;left:0;right:0;max-height:calc(100dvh - 67px);overflow-y:auto!important;background:var(--color-dt-bg);padding:20px}.mobile-drawer .nav-dropdown{position:static;max-height:none;width:100%;margin:8px 0}.mobile-drawer .nav-trigger{padding:12px}.mobile-actions{display:flex;gap:16px;align-items:center;margin-top:20px}}
+@media(max-width:767px){.puku-content-grid{grid-template-columns:1fr;margin-top:40px}.puku-directory-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 16px}.puku-directory{margin-top:64px;padding:40px 20px 24px}.puku-content-card{padding:24px}}
+
+.mobile-drawer{top:var(--site-header-height);max-height:calc(100dvh - var(--site-header-height))}

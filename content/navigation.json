@@ -1,0 +1,238 @@
+{
+  "Main": [
+    [
+      "",
+      "Home"
+    ],
+    [
+      "why-puku",
+      "Why Puku"
+    ],
+    [
+      "pricing",
+      "Pricing"
+    ],
+    [
+      "download",
+      "Download"
+    ],
+    [
+      "contact-sales",
+      "Contact Sales"
+    ]
+  ],
+  "Product": [
+    [
+      "ai",
+      "Puku AI"
+    ],
+    [
+      "editor",
+      "Puku Editor"
+    ],
+    [
+      "cli",
+      "Puku CLI"
+    ],
+    [
+      "app",
+      "Puku App"
+    ],
+    [
+      "co-work",
+      "Puku Co-work"
+    ],
+    [
+      "design",
+      "Puku Design"
+    ],
+    [
+      "cloud",
+      "Puku Cloud"
+    ]
+  ],
+  "Capabilities": [
+    [
+      "ai-agents",
+      "AI Agents"
+    ],
+    [
+      "context-engine",
+      "Context Engine"
+    ],
+    [
+      "project-memory",
+      "Project Memory"
+    ],
+    [
+      "multi-model-intelligence",
+      "Multi-Model Intelligence"
+    ],
+    [
+      "ai-coding",
+      "AI Coding"
+    ],
+    [
+      "ai-design",
+      "AI Design"
+    ],
+    [
+      "ai-research",
+      "AI Research"
+    ],
+    [
+      "ai-automation",
+      "AI Automation"
+    ],
+    [
+      "mcp-integrations",
+      "MCP & Integrations"
+    ]
+  ],
+  "For Business": [
+    [
+      "individuals",
+      "Puku for Individuals"
+    ],
+    [
+      "teams",
+      "Puku for Teams"
+    ],
+    [
+      "enterprise",
+      "Puku for Enterprise"
+    ],
+    [
+      "security",
+      "Security"
+    ],
+    [
+      "privacy",
+      "Privacy"
+    ],
+    [
+      "trust-center",
+      "Trust Center"
+    ]
+  ],
+  "Developers": [
+    [
+      "developers",
+      "Developers"
+    ],
+    [
+      "api",
+      "API"
+    ],
+    [
+      "sdk",
+      "SDK"
+    ],
+    [
+      "mcp",
+      "MCP"
+    ],
+    [
+      "integrations",
+      "Integrations"
+    ],
+    [
+      "docs",
+      "Documentation"
+    ],
+    [
+      "docs/quickstart",
+      "Quickstart"
+    ],
+    [
+      "docs/cli",
+      "Puku CLI Documentation"
+    ],
+    [
+      "docs/editor",
+      "Puku Editor Documentation"
+    ],
+    [
+      "docs/app",
+      "Puku App Documentation"
+    ],
+    [
+      "docs/agents",
+      "Agent Documentation"
+    ],
+    [
+      "docs/api-reference",
+      "API Reference"
+    ]
+  ],
+  "Resources": [
+    [
+      "blog",
+      "Blog"
+    ],
+    [
+      "engineering",
+      "Engineering"
+    ],
+    [
+      "guides",
+      "Guides"
+    ],
+    [
+      "tutorials",
+      "Tutorials"
+    ],
+    [
+      "case-studies",
+      "Case Studies"
+    ],
+    [
+      "changelog",
+      "Changelog"
+    ],
+    [
+      "community",
+      "Community"
+    ]
+  ],
+  "Company": [
+    [
+      "about",
+      "About"
+    ],
+    [
+      "careers",
+      "Careers"
+    ],
+    [
+      "press",
+      "Press"
+    ],
+    [
+      "contact",
+      "Contact"
+    ]
+  ],
+  "Legal": [
+    [
+      "terms-of-service",
+      "Terms of Service"
+    ],
+    [
+      "privacy-policy",
+      "Privacy Policy"
+    ],
+    [
+      "cookie-policy",
+      "Cookie Policy"
+    ],
+    [
+      "acceptable-use-policy",
+      "Acceptable Use Policy"
+    ],
+    [
+      "responsible-disclosure",
+      "Responsible Disclosure"
+    ]
+  ]
+}
