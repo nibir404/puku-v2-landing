@@ -3,13 +3,7 @@
 import React, { useEffect, useRef } from 'react';
 import parse, { Element, DOMNode, domToReact, HTMLReactParserOptions } from 'html-react-parser';
 import { motion } from 'framer-motion';
-import gsap from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import PageInteractions from './PageInteractions';
-
-if (typeof window !== 'undefined') {
-  gsap.registerPlugin(ScrollTrigger);
-}
 
 interface PukuPageRendererProps {
   html: string;
@@ -48,28 +42,39 @@ export default function PukuPageRenderer({ html, slug }: PukuPageRendererProps) 
     const el = containerRef.current;
     if (!el) return;
 
-    const ctx = gsap.context(() => {
-      const cards = el.querySelectorAll('.bento-card, .grid > div, article');
-      cards.forEach((card) => {
-        gsap.fromTo(
-          card,
-          { opacity: 0.8, y: 15 },
-          {
-            opacity: 1,
-            y: 0,
-            duration: 0.6,
-            ease: 'power2.out',
-            scrollTrigger: {
-              trigger: card,
-              start: 'top 85%',
-              toggleActions: 'play none none reverse',
-            },
-          }
-        );
-      });
-    }, containerRef);
+    let ctx: any;
+    async function init() {
+      const gsap = (await import('gsap')).default;
+      const { ScrollTrigger } = await import('gsap/ScrollTrigger');
+      gsap.registerPlugin(ScrollTrigger);
 
-    return () => ctx.revert();
+      ctx = gsap.context(() => {
+        const cards = el.querySelectorAll('.bento-card, .grid > div, article');
+        cards.forEach((card) => {
+          gsap.fromTo(
+            card,
+            { opacity: 0.8, y: 15 },
+            {
+              opacity: 1,
+              y: 0,
+              duration: 0.6,
+              ease: 'power2.out',
+              scrollTrigger: {
+                trigger: card,
+                start: 'top 85%',
+                toggleActions: 'play none none reverse',
+              },
+            }
+          );
+        });
+      }, containerRef);
+    }
+
+    init();
+
+    return () => {
+      if (ctx) ctx.revert();
+    };
   }, [html]);
 
   return (

@@ -1,12 +1,6 @@
 'use client';
 
 import React, { useEffect, useRef } from 'react';
-import gsap from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
-
-if (typeof window !== 'undefined') {
-  gsap.registerPlugin(ScrollTrigger);
-}
 
 interface HeroParallaxProps {
   children: React.ReactNode;
@@ -25,20 +19,31 @@ export default function HeroParallax({
     const el = ref.current;
     if (!el) return;
 
-    const ctx = gsap.context(() => {
-      gsap.to(el, {
-        y: (i, target) => -ScrollTrigger.maxScroll(window) * speed * 0.15,
-        ease: 'none',
-        scrollTrigger: {
-          trigger: el,
-          start: 'top top',
-          end: 'bottom top',
-          scrub: true,
-        },
-      });
-    }, ref);
+    let ctx: any;
+    async function init() {
+      const gsap = (await import('gsap')).default;
+      const { ScrollTrigger } = await import('gsap/ScrollTrigger');
+      gsap.registerPlugin(ScrollTrigger);
 
-    return () => ctx.revert();
+      ctx = gsap.context(() => {
+        gsap.to(el, {
+          y: (i, target) => -ScrollTrigger.maxScroll(window) * speed * 0.15,
+          ease: 'none',
+          scrollTrigger: {
+            trigger: el,
+            start: 'top top',
+            end: 'bottom top',
+            scrub: true,
+          },
+        });
+      }, ref);
+    }
+
+    init();
+
+    return () => {
+      if (ctx) ctx.revert();
+    };
   }, [speed]);
 
   return (

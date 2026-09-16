@@ -3,12 +3,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { ChevronDown, Menu, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
-import gsap from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
-
-if (typeof window !== 'undefined') {
-  gsap.registerPlugin(ScrollTrigger);
-}
 
 const groups: Record<string, { title?: string; links: [string, string][] }[]> = {
   Product: [
@@ -92,19 +86,12 @@ export default function Header() {
   }, [mobile]);
 
   useEffect(() => {
-    const headerEl = ref.current;
-    if (!headerEl) return;
-
-    const ctx = gsap.context(() => {
-      ScrollTrigger.create({
-        start: 'top -20',
-        onUpdate: (self) => {
-          setScrolled(self.scroll() > 20);
-        },
-      });
-    });
-
-    return () => ctx.revert();
+    const handleScroll = () => {
+      setScrolled(window.scrollY > 20);
+    };
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    handleScroll();
+    return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
   const navigation = () =>
