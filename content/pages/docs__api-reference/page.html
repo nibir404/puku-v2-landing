@@ -1,1 +1,73 @@
-<div class="dt-page bg-dt-bg text-dt-text font-body w-full flex flex-col gap-16 md:gap-20"><section class="w-full max-w-[1440px] mx-auto px-5 md:px-10 lg:px-20 xl:px-15"><span class="font-mono text-[12px] uppercase tracking-widest text-dt-primary">Developers / API Reference</span><h1 class="font-normal text-[40px] leading-[1.05] tracking-[-0.03em] md:text-[52px] lg:text-[64px] font-heading text-dt-text max-w-[850px] mt-6">API reference.</h1><p class="text-[18px] leading-[1.4] font-heading text-dt-text-secondary max-w-[720px] mt-8">Implementation details will be published here when the Puku API contract is available.</p><div class="flex gap-3 mt-8"><a class="header-button solid" href="/docs/quickstart">Quickstart</a><a class="header-button outline" href="/contact-sales">Contact Sales</a></div><div class="puku-content-grid"><article class="puku-content-card"><span class="font-mono text-[12px] text-dt-primary">01</span><h2>Availability</h2><p>No verified endpoint specification is included in this website project. Contact the team for current API access.</p></article><article class="puku-content-card"><span class="font-mono text-[12px] text-dt-primary">02</span><h2>Authentication</h2><p>Confirm supported authentication and credential management before connecting an application.</p></article><article class="puku-content-card"><span class="font-mono text-[12px] text-dt-primary">03</span><h2>Requests and responses</h2><p>Use the published contract when available; endpoint paths and response schemas are not yet provided here.</p></article></div></section><section class="w-full max-w-[1440px] mx-auto px-5 md:px-10 lg:px-20 xl:px-15"><h2 class="text-[28px] font-heading font-normal mb-6">Continue exploring</h2><div class="puku-related"><a href="/developers">Developers <span aria-hidden="true">↗</span></a><a href="/api">API <span aria-hidden="true">↗</span></a><a href="/sdk">SDK <span aria-hidden="true">↗</span></a><a href="/mcp">MCP <span aria-hidden="true">↗</span></a></div></section></div>
+<div class="dt-page bg-dt-bg text-dt-text font-body w-full flex flex-col gap-16 md:gap-20 py-12">
+  <!-- Hero Section -->
+  <section class="w-full max-w-[1440px] mx-auto px-5 md:px-10 lg:px-20 xl:px-15 text-left">
+    <span class="font-mono text-[12px] uppercase tracking-widest text-dt-primary font-bold">DEVELOPERS / API REFERENCE</span>
+    <h1 class="font-normal text-[40px] leading-[1.05] tracking-[-0.03em] md:text-[52px] lg:text-[64px] font-heading text-dt-text max-w-[850px] mt-6">Puku API Reference Manual</h1>
+    <p class="text-[20px] md:text-[24px] leading-[1.3] font-heading text-dt-text font-medium max-w-[750px] mt-6">Comprehensive specification for REST & WebSocket API endpoints.</p>
+    <p class="text-[16px] md:text-[18px] leading-[1.5] text-dt-text-secondary max-w-[720px] mt-4">Detailed parameter schemas, request bodies, authentication headers, error formats, and response examples for all Puku API resources.</p>
+    
+    <div class="flex flex-wrap gap-4 mt-8">
+      <a class="header-button solid px-6 py-2.5 text-base" href="/developers">Developers Hub</a>
+      <a class="header-button outline px-6 py-2.5 text-base" href="/api">API Overview</a>
+    </div>
+
+    <!-- Feature Bento Grid -->
+    <div class="mt-16">
+      <h2 class="text-[28px] font-heading font-normal text-dt-text mb-2">API Resources & Schemas</h2>
+      <p class="text-sm text-dt-text-secondary mb-8">Full technical reference for integrating Puku programmatically.</p>
+      <div class="puku-content-grid">
+        
+    <article class="puku-content-card">
+      <span class="font-mono text-[12px] text-dt-primary font-bold">GET/POST</span>
+      <h3 class="font-heading text-xl font-medium text-dt-text mt-4 mb-2">/v1/tasks</h3>
+      <p class="text-sm text-dt-text-secondary leading-relaxed">Create, retrieve, cancel, and monitor autonomous agent task executions.</p>
+    </article>
+  
+    <article class="puku-content-card">
+      <span class="font-mono text-[12px] text-dt-primary font-bold">GET/POST</span>
+      <h3 class="font-heading text-xl font-medium text-dt-text mt-4 mb-2">/v1/context</h3>
+      <p class="text-sm text-dt-text-secondary leading-relaxed">Search repository AST graphs, fetch symbol definitions, and query memory.</p>
+    </article>
+  
+    <article class="puku-content-card">
+      <span class="font-mono text-[12px] text-dt-primary font-bold">WS</span>
+      <h3 class="font-heading text-xl font-medium text-dt-text mt-4 mb-2">/v1/stream</h3>
+      <p class="text-sm text-dt-text-secondary leading-relaxed">WebSocket connection for real-time terminal output and progress events.</p>
+    </article>
+  
+    <article class="puku-content-card">
+      <span class="font-mono text-[12px] text-dt-primary font-bold">GET/POST</span>
+      <h3 class="font-heading text-xl font-medium text-dt-text mt-4 mb-2">/v1/projects</h3>
+      <p class="text-sm text-dt-text-secondary leading-relaxed">List projects, manage configuration files, and retrieve indexing metrics.</p>
+    </article>
+  
+      </div>
+    </div>
+
+    
+  </section>
+
+  <!-- CTA Banner -->
+  <section class="w-full max-w-[1440px] mx-auto px-5 md:px-10 lg:px-20 xl:px-15">
+    <div class="p-8 md:p-12 rounded-2xl bg-dt-tint border border-dt-divider text-center my-4">
+      <h2 class="font-heading text-3xl font-medium text-dt-text mb-3">Accelerate Your Engineering Workflow</h2>
+      <p class="text-dt-text-secondary max-w-xl mx-auto mb-6">Experience autonomous AI coding, persistent memory, and native MCP tool integrations.</p>
+      <div class="flex flex-wrap gap-3 justify-center">
+        <a href="/download" class="header-button solid px-6 py-2">Get Started Free</a>
+        <a href="/contact-sales" class="header-button outline px-6 py-2">Request Enterprise Demo</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Related Links -->
+  <section class="w-full max-w-[1440px] mx-auto px-5 md:px-10 lg:px-20 xl:px-15">
+    <h2 class="text-[28px] font-heading font-normal mb-6 text-dt-text">Continue Exploring</h2>
+    <div class="puku-related">
+      
+    <a href="/api">API Overview <span aria-hidden="true">↗</span></a>
+  
+    <a href="/sdk">SDK Downloads <span aria-hidden="true">↗</span></a>
+  
+    </div>
+  </section>
+</div>

@@ -48,6 +48,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
     <div className="legacy-root min-h-screen bg-[rgb(var(--bg-page))] text-legacy-black">
       <Header />
       <GenericPukuPage slug={key} title={route.title} />
+      <Footer />
     </div>
   );
 }
